@@ -1,0 +1,175 @@
+1, 2, 3 - 1st, 2nd, 3rd person
+sg, pl - singular, plural
+def, 2ndObj - definite, 2nd person object agreement
+pres, past, fut - present, past, future tense
+cond, imperat - conditional, imperative mood
+pot - potential (modal) form
+adject participle - adjectival participle
+
+1sg, pres	szeretek 
+2sg, pres	szeretsz
+3sg, pres	szeret
+1pl, pres	szeretünk
+2pl, pres	szerettek
+3pl, pres	szeretnek
+1sg, pres, def	szeretem
+2sg, pres, def	szereted
+3sg, pres, def	szereti
+1pl, pres, def	szeretjük
+2pl, pres, def	szeretitek
+3pl, pres, def	szeretik
+1sg, pres, 2ndObj	szeretlek
+
+1sg, pres, cond	szeretnék 
+2sg, pres, cond	szeretnél
+3sg, pres, cond	szeretne
+1pl, pres, cond	szeretnénk
+2pl, pres, cond	szeretnétek
+3pl, pres, cond	szeretnének
+1sg, pres, cond, def	szeretném
+2sg, pres, cond, def	szeretnéd
+3sg, pres, cond, def	szeretné
+1pl, pres, cond, def	szeretnénk
+2pl, pres, cond, def	szeretnétek
+3pl, pres, cond, def	szeretnék
+1sg, pres, cond, 2ndObj	szeretnélek
+
+1sg, imperat	szeressek
+2sg, imperat	szeress
+3sg, imperat	szeressen
+1pl, imperat	szeressünk
+2pl, imperat	szeressettek
+3pl, imperat	szeressenek
+1sg, imperat, def	szeressem
+2sg, imperat, def	szeressed / szeresd
+3sg, imperat, def	szeresse
+1pl, imperat, def	szeressük
+2pl, imperat, def	szeressétek
+3pl, imperat, def	szeressék
+1sg, imperat, 2ndObj	szeresselek
+
+1sg, past	szerettem
+2sg, past	szerettél
+3sg, past	szeretett
+1pl, past	szerettünk
+2pl, past	szerettetek
+3pl, past	szerettek
+1sg, past, def	szerettem
+2sg, past, def	szeretted
+3sg, past, def	szerette
+1pl, past, def	szerettük
+2pl, past, def	szerettétek
+3pl, past, def	szerették
+1sg, past, 2ndObj	szerettelek
+
+1sg, past, cond	szerettem volna 
+2sg, past, cond	szerettél volna
+3sg, past, cond	szeretett volna
+1pl, past, cond	szerettünk volna
+2pl, past, cond	szerettetek volna
+3pl, past, cond	szerettek volna
+1sg, past, cond, def	szerettem volna
+2sg, past, cond, def	szeretted volna
+3sg, past, cond, def	szerette volna
+1pl, past, cond, def	szerettük volna
+2pl, past, cond, def	szerettetek volna
+3pl, past, cond, def	szerettek volna
+1sg, past, cond, 2ndObj	szerettelek volna
+
+1sg, fut	szeretni fogok
+2sg, fut	szeretni fogsz
+3sg, fut	szeretni fog
+1pl, fut	szeretni fogunk
+2pl, fut	szeretni fogtok
+3pl, fut	szeretni fognak
+1sg, fut, def	szeretni fogom
+2sg, fut, def	szeretni fogod
+3sg, fut, def	szeretni fogja
+1pl, fut, def	szeretni fogjuk
+2pl, fut, def	szeretni fogjátok
+3pl, fut, def	szeretni fogjuk
+1sg, fut, 2ndObj	szeretni foglak
+
+1sg, pot, pres	szerethetek 
+2sg, pot, pres	szerethetsz
+3sg, pot, pres	szerethet
+1pl, pot, pres	szerethetünk
+2pl, pot, pres	szerethettek
+3pl, pot, pres	szerethetnek
+1sg, pot, pres, def	szerethetem
+2sg, pot, pres, def	szeretheted
+3sg, pot, pres, def	szeretheti
+1pl, pot, pres, def	szerethetjük
+2pl, pot, pres, def	szerethetitek
+3pl, pot, pres, def	szerethetik
+1sg, pot, pres, 2ndObj	szerethetlek
+
+1sg, pot, pres, cond	szerethetnék 
+2sg, pot, pres, cond	szerethetnél
+3sg, pot, pres, cond	szerethetne
+1pl, pot, pres, cond	szerethetnénk
+2pl, pot, pres, cond	szerethetnétek
+3pl, pot, pres, cond	szerethetnének
+1sg, pot, pres, cond, def	szerethetném
+2sg, pot, pres, cond, def	szerethetnéd
+3sg, pot, pres, cond, def	szerethetné
+1pl, pot, pres, cond, def	szerethetnénk
+2pl, pot, pres, cond, def	szerethetnétek
+3pl, pot, pres, cond, def	szerethetnék
+1sg, pot, pres, cond, 2ndObj	szerethetnélek
+
+1sg, pot, imperat	szerethessek
+2sg, pot, imperat	szerethess
+3sg, pot, imperat	szerethessen
+1pl, pot, imperat	szerethessünk
+2pl, pot, imperat	szerethessettek
+3pl, pot, imperat	szerethessenek
+1sg, pot, imperat, def	szerethessem
+2sg, pot, imperat, def	szerethessed / szerethesd
+3sg, pot, imperat, def	szerethesse
+1pl, pot, imperat, def	szerethessük
+2pl, pot, imperat, def	szerethessétek
+3pl, pot, imperat, def	szerethessék
+1sg, pot, imperat, 2ndObj	szerethesselek
+
+1sg, pot, past	szerethettem
+2sg, pot, past	szerethettél
+3sg, pot, past	szerethetett
+1pl, pot, past	szerethettünk
+2pl, pot, past	szerethettetek
+3pl, pot, past	szerethettek
+1sg, pot, past, def	szerethettem
+2sg, pot, past, def	szerethetted
+3sg, pot, past, def	szerethette
+1pl, pot, past, def	szerethettük
+2pl, pot, past, def	szerethettétek
+3pl, pot, past, def	szerethették
+1sg, pot, past, 2ndObj	szerethettelek
+
+1sg, pot, past, cond	szerethettem volna 
+2sg, pot, past, cond	szerethettél volna
+3sg, pot, past, cond	szerethetett volna
+1pl, pot, past, cond	szerethettünk volna
+2pl, pot, past, cond	szerethettetek volna
+3pl, pot, past, cond	szerethettek volna
+1sg, pot, past, cond, def	szerethettem volna
+2sg, pot, past, cond, def	szerethetted volna
+3sg, pot, past, cond, def	szerethette volna
+1pl, pot, past, cond, def	szerethettük volna
+2pl, pot, past, cond, def	szerethettetek volna
+3pl, pot, past, cond, def	szerethettek volna
+1sg, pot, past, cond, 2ndObj	szerethettelek volna
+
+infinitive	szeretni
+infinitive 1sg	szeretnem
+infinitive 2sg	szeretned
+infinitive 3sg	szeretnie
+infinitive 1pl	szeretnünk
+infinitive 2pl	szeretnetek
+infinitive 3pl	szeretniük
+
+pres adject participle	szerető
+past adject participle	szeretett
+future adject participle	szeretendő
+pot adject participle	szerethető
+adverbial participle	szeretve
