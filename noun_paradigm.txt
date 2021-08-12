@@ -1,0 +1,782 @@
+NOM, ACC, DAT, ILL, INE, etc. - nominal cases
+pl - plural
+P1sg, P2sg, P1pl, etc. - possessive with 1st person singular possessor, 2nd person singular possessor, 1st person plural possessor, etc.
+NPoss - nominal possessive marking (é)
+NPoss+ - plural of nominal possessive marking (éi)
+
+NOM	kutya
+ACC	kutyát
+DAT	kutyának
+ILL	kutyába
+INE	kutyában
+ELA	kutyából
+ALL	kutyához
+ADE	kutyánál
+ABL	kutyától
+SUB	kutyára
+SUP	kutyán
+DEL	kutyáról
+INS	kutyával
+FAC	kutyává
+FOR	kutyaként
+TEM	kutyakor
+CAU	kutyáért
+TER	kutyáig
+SOC	kutyástul
+ESS	kutyául
+pl, NOM	kutyák
+pl, ACC	kutyákat
+pl, DAT	kutyáknak
+pl, ILL	kutyákba
+pl, INE	kutyákban
+pl, ELA	kutyákból
+pl, ALL	kutyákhoz
+pl, ADE	kutyáknál
+pl, ABL	kutyáktól
+pl, SUB	kutyákra
+pl, SUP	kutyákon
+pl, DEL	kutyákról
+pl, INS	kutyákkal
+pl, FAC	kutyákká
+pl, FOR	kutyákként
+pl, CAU	kutyákért
+pl, TER	kutyákig
+
+P1sg, NOM	kutyám
+P1sg, ACC	kutyámat
+P1sg, DAT	kutyámnak
+P1sg, ILL	kutyámba
+P1sg, INE	kutyámban
+P1sg, ELA	kutyámból
+P1sg, ALL	kutyámhoz
+P1sg, ADE	kutyámnál
+P1sg, ABL	kutyámtól
+P1sg, SUB	kutyámra
+P1sg, SUP	kutyámon
+P1sg, DEL	kutyámról
+P1sg, INS	kutyámmal
+P1sg, FAC	kutyámmá
+P1sg, FOR	kutyámként
+P1sg, TEM	kutyámkor
+P1sg, CAU	kutyámért
+P1sg, TER	kutyámig
+P1sg, ESS	kutyámul
+P1sg, pl, NOM	kutyáim
+P1sg, pl, ACC	kutyáimat
+P1sg, pl, DAT	kutyáimnak
+P1sg, pl, ILL	kutyáimba
+P1sg, pl, INE	kutyáimban
+P1sg, pl, ELA	kutyáimból
+P1sg, pl, ALL	kutyáimhoz
+P1sg, pl, ADE	kutyáimnál
+P1sg, pl, ABL	kutyáimtól
+P1sg, pl, SUB	kutyáimra
+P1sg, pl, SUP	kutyáimon
+P1sg, pl, DEL	kutyáimról
+P1sg, pl, INS	kutyáimmal
+P1sg, pl, FAC	kutyáimmá
+P1sg, pl, FOR	kutyáimként
+P1sg, pl, CAU	kutyáimért
+P1sg, pl, TER	kutyáimig
+
+P2sg, NOM	kutyád
+P2sg, ACC	kutyádat
+P2sg, DAT	kutyádnak
+P2sg, ILL	kutyádba
+P2sg, INE	kutyádban
+P2sg, ELA	kutyádból
+P2sg, ALL	kutyádhoz
+P2sg, ADE	kutyádnál
+P2sg, ABL	kutyádtól
+P2sg, SUB	kutyádra
+P2sg, SUP	kutyádon
+P2sg, DEL	kutyádról
+P2sg, INS	kutyáddal
+P2sg, FAC	kutyáddá
+P2sg, FOR	kutyádként
+P2sg, TEM	kutyádkor
+P2sg, CAU	kutyádért
+P2sg, TER	kutyádig
+P2sg, ESS	kutyádul
+P2sg, pl, NOM	kutyáid
+P2sg, pl, ACC	kutyáidat
+P2sg, pl, DAT	kutyáidnak
+P2sg, pl, ILL	kutyáidba
+P2sg, pl, INE	kutyáidban
+P2sg, pl, ELA	kutyáidból
+P2sg, pl, ALL	kutyáidhoz
+P2sg, pl, ADE	kutyáidnál
+P2sg, pl, ABL	kutyáidtól
+P2sg, pl, SUB	kutyáidra
+P2sg, pl, SUP	kutyáidon
+P2sg, pl, DEL	kutyáidról
+P2sg, pl, INS	kutyáiddal
+P2sg, pl, FAC	kutyáiddá
+P2sg, pl, FOR	kutyáidként
+P2sg, pl, CAU	kutyáidért
+P2sg, pl, TER	kutyáidig
+
+P3sg, NOM	kutyája
+P3sg, ACC	kutyáját
+P3sg, DAT	kutyájának
+P3sg, ILL	kutyájába
+P3sg, INE	kutyájában
+P3sg, ELA	kutyájából
+P3sg, ALL	kutyájához
+P3sg, ADE	kutyájánál
+P3sg, ABL	kutyájától
+P3sg, SUB	kutyájára
+P3sg, SUP	kutyáján
+P3sg, DEL	kutyájáról
+P3sg, INS	kutyájával
+P3sg, FAC	kutyájává
+P3sg, FOR	kutyájaként
+P3sg, TEM	kutyájakor
+P3sg, CAU	kutyájáért
+P3sg, TER	kutyájáig
+P3sg, ESS	kutyájául
+P3sg, pl, NOM	kutyái
+P3sg, pl, ACC	kutyáit
+P3sg, pl, DAT	kutyáinak
+P3sg, pl, ILL	kutyáiba
+P3sg, pl, INE	kutyáiban
+P3sg, pl, ELA	kutyáiból
+P3sg, pl, ALL	kutyáihoz
+P3sg, pl, ADE	kutyáinál
+P3sg, pl, ABL	kutyáitól
+P3sg, pl, SUB	kutyáira
+P3sg, pl, SUP	kutyáin
+P3sg, pl, DEL	kutyáiról
+P3sg, pl, INS	kutyáival
+P3sg, pl, FAC	kutyáivá
+P3sg, pl, FOR	kutyáiként
+P3sg, pl, CAU	kutyáiért
+P3sg, pl, TER	kutyáiig
+
+P1pl, NOM	kutyánk
+P1pl, ACC	kutyánkat
+P1pl, DAT	kutyánknak
+P1pl, ILL	kutyánkba
+P1pl, INE	kutyánkban
+P1pl, ELA	kutyánkból
+P1pl, ALL	kutyánkhoz
+P1pl, ADE	kutyánknál
+P1pl, ABL	kutyánktól
+P1pl, SUB	kutyánkra
+P1pl, SUP	kutyánkon
+P1pl, DEL	kutyánkról
+P1pl, INS	kutyánkkal
+P1pl, FAC	kutyánkká
+P1pl, FOR	kutyánkként
+P1pl, CAU	kutyánkért
+P1pl, TER	kutyánkig
+P1pl, ESS	kutyánkul
+P1pl, pl, NOM	kutyáink
+P1pl, pl, ACC	kutyáinkat
+P1pl, pl, DAT	kutyáinknak
+P1pl, pl, ILL	kutyáinkba
+P1pl, pl, INE	kutyáinkban
+P1pl, pl, ELA	kutyáinkból
+P1pl, pl, ALL	kutyáinkhoz
+P1pl, pl, ADE	kutyáinknál
+P1pl, pl, ABL	kutyáinktól
+P1pl, pl, SUB	kutyáinkra
+P1pl, pl, SUP	kutyáinkon
+P1pl, pl, DEL	kutyáinkról
+P1pl, pl, INS	kutyáinkkal
+P1pl, pl, FAC	kutyáinkká
+P1pl, pl, FOR	kutyáinkként
+P1pl, pl, CAU	kutyáinkért
+P1pl, pl, TER	kutyáinkig
+
+P2pl, NOM	kutyátok
+P2pl, ACC	kutyátokat
+P2pl, DAT	kutyátoknak
+P2pl, ILL	kutyátokba
+P2pl, INE	kutyátokban
+P2pl, ELA	kutyátokból
+P2pl, ALL	kutyátokhoz
+P2pl, ADE	kutyátoknál
+P2pl, ABL	kutyátoktól
+P2pl, SUB	kutyátokra
+P2pl, SUP	kutyátokon
+P2pl, DEL	kutyátokról
+P2pl, INS	kutyátokkal
+P2pl, FAC	kutyátokká
+P2pl, FOR	kutyátokként
+P2pl, CAU	kutyátokért
+P2pl, TER	kutyátokig
+P2pl, ESS	kutyátokul
+P2pl, pl, NOM	kutyáitok
+P2pl, pl, ACC	kutyáitokat
+P2pl, pl, DAT	kutyáitoknak
+P2pl, pl, ILL	kutyáitokba
+P2pl, pl, INE	kutyáitokban
+P2pl, pl, ELA	kutyáitokból
+P2pl, pl, ALL	kutyáitokhoz
+P2pl, pl, ADE	kutyáitoknál
+P2pl, pl, ABL	kutyáitoktól
+P2pl, pl, SUB	kutyáitokra
+P2pl, pl, SUP	kutyáitokon
+P2pl, pl, DEL	kutyáitokról
+P2pl, pl, INS	kutyáitokkal
+P2pl, pl, FAC	kutyáitokká
+P2pl, pl, FOR	kutyáitokként
+P2pl, pl, CAU	kutyáitokért
+P2pl, pl, TER	kutyáitokig
+
+P3pl, NOM	kutyájuk
+P3pl, ACC	kutyájukat
+P3pl, DAT	kutyájuknak
+P3pl, ILL	kutyájukba
+P3pl, INE	kutyájukban
+P3pl, ELA	kutyájukból
+P3pl, ALL	kutyájukhoz
+P3pl, ADE	kutyájuknál
+P3pl, ABL	kutyájuktól
+P3pl, SUB	kutyájukra
+P3pl, SUP	kutyájukon
+P3pl, DEL	kutyájukról
+P3pl, INS	kutyájukkal
+P3pl, FAC	kutyájukká
+P3pl, FOR	kutyájukként
+P3pl, CAU	kutyájukért
+P3pl, TER	kutyájukig
+P3pl, ESS	kutyájukul
+P3pl, pl, NOM	kutyáik
+P3pl, pl, ACC	kutyáikat
+P3pl, pl, DAT	kutyáiknak
+P3pl, pl, ILL	kutyáikba
+P3pl, pl, INE	kutyáikban
+P3pl, pl, ELA	kutyáikból
+P3pl, pl, ALL	kutyáikhoz
+P3pl, pl, ADE	kutyáiknál
+P3pl, pl, ABL	kutyáiktól
+P3pl, pl, SUB	kutyáikra
+P3pl, pl, SUP	kutyáikon
+P3pl, pl, DEL	kutyáikról
+P3pl, pl, INS	kutyáikkal
+P3pl, pl, FAC	kutyáikká
+P3pl, pl, FOR	kutyáikként
+P3pl, pl, CAU	kutyáikért
+P3pl, pl, TER	kutyáikig
+
+NPoss, NOM	kutyáé
+NPoss, ACC	kutyáét
+NPoss, DAT	kutyáénak
+NPoss, ILL	kutyáéba
+NPoss, INE	kutyáéban
+NPoss, ELA	kutyáéból
+NPoss, ALL	kutyáéhoz
+NPoss, ADE	kutyáénál
+NPoss, ABL	kutyáétól
+NPoss, SUB	kutyáéra
+NPoss, SUP	kutyáén
+NPoss, DEL	kutyáéról
+NPoss, INS	kutyáéval
+NPoss, FAC	kutyáévá
+NPoss, FOR	kutyáéként
+NPoss, TEM	kutyáékor
+NPoss, CAU	kutyáéért
+NPoss, TER	kutyáéig
+NPoss, SOC	kutyáéstul
+NPoss, ESS	kutyáéul
+pl, NPoss, NOM	kutyáké
+pl, NPoss, ACC	kutyákét
+pl, NPoss, DAT	kutyákénak
+pl, NPoss, ILL	kutyákéba
+pl, NPoss, INE	kutyákéban
+pl, NPoss, ELA	kutyákéból
+pl, NPoss, ALL	kutyákéhoz
+pl, NPoss, ADE	kutyákénál
+pl, NPoss, ABL	kutyákétól
+pl, NPoss, SUB	kutyákéra
+pl, NPoss, SUP	kutyákén
+pl, NPoss, DEL	kutyákéról
+pl, NPoss, INS	kutyákéval
+pl, NPoss, FAC	kutyákévá
+pl, NPoss, FOR	kutyákéként
+pl, NPoss, CAU	kutyákéért
+pl, NPoss, TER	kutyákéig
+
+P1sg, NPoss, NOM	kutyámé
+P1sg, NPoss, ACC	kutyámét
+P1sg, NPoss, DAT	kutyáménak
+P1sg, NPoss, ILL	kutyáméba
+P1sg, NPoss, INE	kutyáméban
+P1sg, NPoss, ELA	kutyáméból
+P1sg, NPoss, ALL	kutyáméhoz
+P1sg, NPoss, ADE	kutyáménál
+P1sg, NPoss, ABL	kutyámétól
+P1sg, NPoss, SUB	kutyáméra
+P1sg, NPoss, SUP	kutyámén
+P1sg, NPoss, DEL	kutyáméról
+P1sg, NPoss, INS	kutyáméval
+P1sg, NPoss, FAC	kutyámévá
+P1sg, NPoss, FOR	kutyáméként
+P1sg, NPoss, TEM	kutyámékor
+P1sg, NPoss, CAU	kutyáméért
+P1sg, NPoss, TER	kutyáméig
+P1sg, NPoss, ESS	kutyáméul
+P1sg, pl, NPoss, NOM	kutyáimé
+P1sg, pl, NPoss, ACC	kutyáimét
+P1sg, pl, NPoss, DAT	kutyáiménak
+P1sg, pl, NPoss, ILL	kutyáiméba
+P1sg, pl, NPoss, INE	kutyáiméban
+P1sg, pl, NPoss, ELA	kutyáiméból
+P1sg, pl, NPoss, ALL	kutyáiméhoz
+P1sg, pl, NPoss, ADE	kutyáiménál
+P1sg, pl, NPoss, ABL	kutyáimétól
+P1sg, pl, NPoss, SUB	kutyáiméra
+P1sg, pl, NPoss, SUP	kutyáimén
+P1sg, pl, NPoss, DEL	kutyáiméról
+P1sg, pl, NPoss, INS	kutyáiméval
+P1sg, pl, NPoss, FAC	kutyáimévá
+P1sg, pl, NPoss, FOR	kutyáiméként
+P1sg, pl, NPoss, CAU	kutyáiméért
+P1sg, pl, NPoss, TER	kutyáiméig
+
+P2sg, NPoss, NOM	kutyádé
+P2sg, NPoss, ACC	kutyádét
+P2sg, NPoss, DAT	kutyádénak
+P2sg, NPoss, ILL	kutyádéba
+P2sg, NPoss, INE	kutyádéban
+P2sg, NPoss, ELA	kutyádéból
+P2sg, NPoss, ALL	kutyádéhoz
+P2sg, NPoss, ADE	kutyádénál
+P2sg, NPoss, ABL	kutyádétól
+P2sg, NPoss, SUB	kutyádéra
+P2sg, NPoss, SUP	kutyádén
+P2sg, NPoss, DEL	kutyádéról
+P2sg, NPoss, INS	kutyádéval
+P2sg, NPoss, FAC	kutyádévá
+P2sg, NPoss, FOR	kutyádéként
+P2sg, NPoss, TEM	kutyádékor
+P2sg, NPoss, CAU	kutyádéért
+P2sg, NPoss, TER	kutyádéig
+P2sg, NPoss, ESS	kutyádéul
+P2sg, pl, NPoss, NOM	kutyáidé
+P2sg, pl, NPoss, ACC	kutyáidét
+P2sg, pl, NPoss, DAT	kutyáidénak
+P2sg, pl, NPoss, ILL	kutyáidéba
+P2sg, pl, NPoss, INE	kutyáidéban
+P2sg, pl, NPoss, ELA	kutyáidéból
+P2sg, pl, NPoss, ALL	kutyáidéhoz
+P2sg, pl, NPoss, ADE	kutyáidénál
+P2sg, pl, NPoss, ABL	kutyáidétól
+P2sg, pl, NPoss, SUB	kutyáidéra
+P2sg, pl, NPoss, SUP	kutyáidén
+P2sg, pl, NPoss, DEL	kutyáidéról
+P2sg, pl, NPoss, INS	kutyáidéval
+P2sg, pl, NPoss, FAC	kutyáidévá
+P2sg, pl, NPoss, FOR	kutyáidéként
+P2sg, pl, NPoss, CAU	kutyáidéért
+P2sg, pl, NPoss, TER	kutyáidéig
+
+P3sg, NPoss, NOM	kutyájáé
+P3sg, NPoss, ACC	kutyájáét
+P3sg, NPoss, DAT	kutyájáénak
+P3sg, NPoss, ILL	kutyájáéba
+P3sg, NPoss, INE	kutyájáéban
+P3sg, NPoss, ELA	kutyájáéból
+P3sg, NPoss, ALL	kutyájáéhoz
+P3sg, NPoss, ADE	kutyájáénál
+P3sg, NPoss, ABL	kutyájáétól
+P3sg, NPoss, SUB	kutyájáéra
+P3sg, NPoss, SUP	kutyájáén
+P3sg, NPoss, DEL	kutyájáéról
+P3sg, NPoss, INS	kutyájáéval
+P3sg, NPoss, FAC	kutyájáévá
+P3sg, NPoss, FOR	kutyájáéként
+P3sg, NPoss, TEM	kutyájáékor
+P3sg, NPoss, CAU	kutyájáéért
+P3sg, NPoss, TER	kutyájáéig
+P3sg, NPoss, ESS	kutyájáéul
+P3sg, pl, NPoss, NOM	kutyáié
+P3sg, pl, NPoss, ACC	kutyáiét
+P3sg, pl, NPoss, DAT	kutyáiénak
+P3sg, pl, NPoss, ILL	kutyáiéba
+P3sg, pl, NPoss, INE	kutyáiéban
+P3sg, pl, NPoss, ELA	kutyáiéból
+P3sg, pl, NPoss, ALL	kutyáiéhoz
+P3sg, pl, NPoss, ADE	kutyáiénál
+P3sg, pl, NPoss, ABL	kutyáiétól
+P3sg, pl, NPoss, SUB	kutyáiéra
+P3sg, pl, NPoss, SUP	kutyáién
+P3sg, pl, NPoss, DEL	kutyáiéról
+P3sg, pl, NPoss, INS	kutyáiéval
+P3sg, pl, NPoss, FAC	kutyáiévá
+P3sg, pl, NPoss, FOR	kutyáiéként
+P3sg, pl, NPoss, CAU	kutyáiéért
+P3sg, pl, NPoss, TER	kutyáiéig
+
+P1pl, NPoss, NOM	kutyánké
+P1pl, NPoss, ACC	kutyánkét
+P1pl, NPoss, DAT	kutyánkénak
+P1pl, NPoss, ILL	kutyánkéba
+P1pl, NPoss, INE	kutyánkéban
+P1pl, NPoss, ELA	kutyánkéból
+P1pl, NPoss, ALL	kutyánkéhoz
+P1pl, NPoss, ADE	kutyánkénál
+P1pl, NPoss, ABL	kutyánkétól
+P1pl, NPoss, SUB	kutyánkéra
+P1pl, NPoss, SUP	kutyánkén
+P1pl, NPoss, DEL	kutyánkéról
+P1pl, NPoss, INS	kutyánkéval
+P1pl, NPoss, FAC	kutyánkévá
+P1pl, NPoss, FOR	kutyánkéként
+P1pl, NPoss, TEM	kutyánkékor
+P1pl, NPoss, CAU	kutyánkéért
+P1pl, NPoss, TER	kutyánkéig
+P1pl, NPoss, ESS	kutyánkéul
+P1pl, pl, NPoss, NOM	kutyáinké
+P1pl, pl, NPoss, ACC	kutyáinkét
+P1pl, pl, NPoss, DAT	kutyáinkénak
+P1pl, pl, NPoss, ILL	kutyáinkéba
+P1pl, pl, NPoss, INE	kutyáinkéban
+P1pl, pl, NPoss, ELA	kutyáinkéból
+P1pl, pl, NPoss, ALL	kutyáinkéhoz
+P1pl, pl, NPoss, ADE	kutyáinkénál
+P1pl, pl, NPoss, ABL	kutyáinkétól
+P1pl, pl, NPoss, SUB	kutyáinkéra
+P1pl, pl, NPoss, SUP	kutyáinkén
+P1pl, pl, NPoss, DEL	kutyáinkéról
+P1pl, pl, NPoss, INS	kutyáinkéval
+P1pl, pl, NPoss, FAC	kutyáinkévá
+P1pl, pl, NPoss, FOR	kutyáinkéként
+P1pl, pl, NPoss, CAU	kutyáinkéért
+P1pl, pl, NPoss, TER	kutyáinkéig
+
+P2pl, NPoss, NOM	kutyátoké
+P2pl, NPoss, ACC	kutyátokét
+P2pl, NPoss, DAT	kutyátokénak
+P2pl, NPoss, ILL	kutyátokéba
+P2pl, NPoss, INE	kutyátokéban
+P2pl, NPoss, ELA	kutyátokéból
+P2pl, NPoss, ALL	kutyátokéhoz
+P2pl, NPoss, ADE	kutyátokénál
+P2pl, NPoss, ABL	kutyátokétól
+P2pl, NPoss, SUB	kutyátokéra
+P2pl, NPoss, SUP	kutyátokén
+P2pl, NPoss, DEL	kutyátokéról
+P2pl, NPoss, INS	kutyátokéval
+P2pl, NPoss, FAC	kutyátokévá
+P2pl, NPoss, FOR	kutyátokéként
+P2pl, NPoss, TEM	kutyátokékor
+P2pl, NPoss, CAU	kutyátokéért
+P2pl, NPoss, TER	kutyátokéig
+P2pl, NPoss, ESS	kutyátokéul
+P2pl, pl, NPoss, NOM	kutyáitoké
+P2pl, pl, NPoss, ACC	kutyáitokét
+P2pl, pl, NPoss, DAT	kutyáitokénak
+P2pl, pl, NPoss, ILL	kutyáitokéba
+P2pl, pl, NPoss, INE	kutyáitokéban
+P2pl, pl, NPoss, ELA	kutyáitokéból
+P2pl, pl, NPoss, ALL	kutyáitokéhoz
+P2pl, pl, NPoss, ADE	kutyáitokénál
+P2pl, pl, NPoss, ABL	kutyáitokétól
+P2pl, pl, NPoss, SUB	kutyáitokéra
+P2pl, pl, NPoss, SUP	kutyáitokén
+P2pl, pl, NPoss, DEL	kutyáitokéról
+P2pl, pl, NPoss, INS	kutyáitokéval
+P2pl, pl, NPoss, FAC	kutyáitokévá
+P2pl, pl, NPoss, FOR	kutyáitokéként
+P2pl, pl, NPoss, CAU	kutyáitokéért
+P2pl, pl, NPoss, TER	kutyáitokéig
+
+P3pl, NPoss, NOM	kutyájuké
+P3pl, NPoss, ACC	kutyájukét
+P3pl, NPoss, DAT	kutyájukénak
+P3pl, NPoss, ILL	kutyájukéba
+P3pl, NPoss, INE	kutyájukéban
+P3pl, NPoss, ELA	kutyájukéból
+P3pl, NPoss, ALL	kutyájukéhoz
+P3pl, NPoss, ADE	kutyájukénál
+P3pl, NPoss, ABL	kutyájukétól
+P3pl, NPoss, SUB	kutyájukéra
+P3pl, NPoss, SUP	kutyájukén
+P3pl, NPoss, DEL	kutyájukéról
+P3pl, NPoss, INS	kutyájukéval
+P3pl, NPoss, FAC	kutyájukévá
+P3pl, NPoss, FOR	kutyájukéként
+P3pl, NPoss, TEM	kutyájukékor
+P3pl, NPoss, CAU	kutyájukéért
+P3pl, NPoss, TER	kutyájukéig
+P3pl, NPoss, ESS	kutyájukéul
+P3pl, pl, NPoss, NOM	kutyáiké
+P3pl, pl, NPoss, ACC	kutyáikét
+P3pl, pl, NPoss, DAT	kutyáikénak
+P3pl, pl, NPoss, ILL	kutyáikéba
+P3pl, pl, NPoss, INE	kutyáikéban
+P3pl, pl, NPoss, ELA	kutyáikéból
+P3pl, pl, NPoss, ALL	kutyáikéhoz
+P3pl, pl, NPoss, ADE	kutyáikénál
+P3pl, pl, NPoss, ABL	kutyáikétól
+P3pl, pl, NPoss, SUB	kutyáikéra
+P3pl, pl, NPoss, SUP	kutyáikén
+P3pl, pl, NPoss, DEL	kutyáikéról
+P3pl, pl, NPoss, INS	kutyáikéval
+P3pl, pl, NPoss, FAC	kutyáikévá
+P3pl, pl, NPoss, FOR	kutyáikéként
+P3pl, pl, NPoss, CAU	kutyáikéért
+P3pl, pl, NPoss, TER	kutyáikéig
+
+NPoss+, NOM	kutyáéi
+NPoss+, ACC	kutyáéit
+NPoss+, DAT	kutyáéinak
+NPoss+, ILL	kutyáéiba
+NPoss+, INE	kutyáéiban
+NPoss+, ELA	kutyáéiból
+NPoss+, ALL	kutyáéihoz
+NPoss+, ADE	kutyáéinál
+NPoss+, ABL	kutyáéitól
+NPoss+, SUB	kutyáéira
+NPoss+, SUP	kutyáéin
+NPoss+, DEL	kutyáéiról
+NPoss+, INS	kutyáéival
+NPoss+, FAC	kutyáéivá
+NPoss+, FOR	kutyáéiként
+NPoss+, TEM	kutyáéikor
+NPoss+, CAU	kutyáéiért
+NPoss+, TER	kutyáéiig
+NPoss+, SOC	kutyáéistul
+NPoss+, ESS	kutyáéiul
+pl, NPoss+, NOM	kutyákéi
+pl, NPoss+, ACC	kutyákéit
+pl, NPoss+, DAT	kutyákéinak
+pl, NPoss+, ILL	kutyákéiba
+pl, NPoss+, INE	kutyákéiban
+pl, NPoss+, ELA	kutyákéiból
+pl, NPoss+, ALL	kutyákéihoz
+pl, NPoss+, ADE	kutyákéinál
+pl, NPoss+, ABL	kutyákéitól
+pl, NPoss+, SUB	kutyákéira
+pl, NPoss+, SUP	kutyákéin
+pl, NPoss+, DEL	kutyákéiról
+pl, NPoss+, INS	kutyákéival
+pl, NPoss+, FAC	kutyákéivá
+pl, NPoss+, FOR	kutyákéiként
+pl, NPoss+, CAU	kutyákéiért
+pl, NPoss+, TER	kutyákéiig
+
+P1sg, NPoss+, NOM	kutyáméi
+P1sg, NPoss+, ACC	kutyáméit
+P1sg, NPoss+, DAT	kutyáméinak
+P1sg, NPoss+, ILL	kutyáméiba
+P1sg, NPoss+, INE	kutyáméiban
+P1sg, NPoss+, ELA	kutyáméiból
+P1sg, NPoss+, ALL	kutyáméihoz
+P1sg, NPoss+, ADE	kutyáméinál
+P1sg, NPoss+, ABL	kutyáméitól
+P1sg, NPoss+, SUB	kutyáméira
+P1sg, NPoss+, SUP	kutyáméin
+P1sg, NPoss+, DEL	kutyáméiról
+P1sg, NPoss+, INS	kutyáméival
+P1sg, NPoss+, FAC	kutyáméivá
+P1sg, NPoss+, FOR	kutyáméiként
+P1sg, NPoss+, TEM	kutyáméikor
+P1sg, NPoss+, CAU	kutyáméiért
+P1sg, NPoss+, TER	kutyáméiig
+P1sg, NPoss+, ESS	kutyáméiul
+P1sg, pl, NPoss+, NOM	kutyáiméi
+P1sg, pl, NPoss+, ACC	kutyáiméit
+P1sg, pl, NPoss+, DAT	kutyáiméinak
+P1sg, pl, NPoss+, ILL	kutyáiméiba
+P1sg, pl, NPoss+, INE	kutyáiméiban
+P1sg, pl, NPoss+, ELA	kutyáiméiból
+P1sg, pl, NPoss+, ALL	kutyáiméihoz
+P1sg, pl, NPoss+, ADE	kutyáiméinál
+P1sg, pl, NPoss+, ABL	kutyáiméitól
+P1sg, pl, NPoss+, SUB	kutyáiméira
+P1sg, pl, NPoss+, SUP	kutyáiméin
+P1sg, pl, NPoss+, DEL	kutyáiméiról
+P1sg, pl, NPoss+, INS	kutyáiméival
+P1sg, pl, NPoss+, FAC	kutyáiméivá
+P1sg, pl, NPoss+, FOR	kutyáiméiként
+P1sg, pl, NPoss+, CAU	kutyáiméiért
+P1sg, pl, NPoss+, TER	kutyáiméiig
+
+P2sg, NPoss+, NOM	kutyádéi
+P2sg, NPoss+, ACC	kutyádéit
+P2sg, NPoss+, DAT	kutyádéinak
+P2sg, NPoss+, ILL	kutyádéiba
+P2sg, NPoss+, INE	kutyádéiban
+P2sg, NPoss+, ELA	kutyádéiból
+P2sg, NPoss+, ALL	kutyádéihoz
+P2sg, NPoss+, ADE	kutyádéinál
+P2sg, NPoss+, ABL	kutyádéitól
+P2sg, NPoss+, SUB	kutyádéira
+P2sg, NPoss+, SUP	kutyádéin
+P2sg, NPoss+, DEL	kutyádéiról
+P2sg, NPoss+, INS	kutyádéival
+P2sg, NPoss+, FAC	kutyádéivá
+P2sg, NPoss+, FOR	kutyádéiként
+P2sg, NPoss+, TEM	kutyádéikor
+P2sg, NPoss+, CAU	kutyádéiért
+P2sg, NPoss+, TER	kutyádéiig
+P2sg, NPoss+, ESS	kutyádéiul
+P2sg, pl, NPoss+, NOM	kutyáidéi
+P2sg, pl, NPoss+, ACC	kutyáidéit
+P2sg, pl, NPoss+, DAT	kutyáidéinak
+P2sg, pl, NPoss+, ILL	kutyáidéiba
+P2sg, pl, NPoss+, INE	kutyáidéiban
+P2sg, pl, NPoss+, ELA	kutyáidéiból
+P2sg, pl, NPoss+, ALL	kutyáidéihoz
+P2sg, pl, NPoss+, ADE	kutyáidéinál
+P2sg, pl, NPoss+, ABL	kutyáidéitól
+P2sg, pl, NPoss+, SUB	kutyáidéira
+P2sg, pl, NPoss+, SUP	kutyáidéin
+P2sg, pl, NPoss+, DEL	kutyáidéiról
+P2sg, pl, NPoss+, INS	kutyáidéival
+P2sg, pl, NPoss+, FAC	kutyáidéivá
+P2sg, pl, NPoss+, FOR	kutyáidéiként
+P2sg, pl, NPoss+, CAU	kutyáidéiért
+P2sg, pl, NPoss+, TER	kutyáidéiig
+
+P3sg, NPoss+, NOM	kutyájáéi
+P3sg, NPoss+, ACC	kutyájáéit
+P3sg, NPoss+, DAT	kutyájáéinak
+P3sg, NPoss+, ILL	kutyájáéiba
+P3sg, NPoss+, INE	kutyájáéiban
+P3sg, NPoss+, ELA	kutyájáéiból
+P3sg, NPoss+, ALL	kutyájáéihoz
+P3sg, NPoss+, ADE	kutyájáéinál
+P3sg, NPoss+, ABL	kutyájáéitól
+P3sg, NPoss+, SUB	kutyájáéira
+P3sg, NPoss+, SUP	kutyájáéin
+P3sg, NPoss+, DEL	kutyájáéiról
+P3sg, NPoss+, INS	kutyájáéival
+P3sg, NPoss+, FAC	kutyájáéivá
+P3sg, NPoss+, FOR	kutyájáéiként
+P3sg, NPoss+, TEM	kutyájáéikor
+P3sg, NPoss+, CAU	kutyájáéiért
+P3sg, NPoss+, TER	kutyájáéiig
+P3sg, NPoss+, ESS	kutyájáéiul
+P3sg, pl, NPoss+, NOM	kutyáiéi
+P3sg, pl, NPoss+, ACC	kutyáiéit
+P3sg, pl, NPoss+, DAT	kutyáiéinak
+P3sg, pl, NPoss+, ILL	kutyáiéiba
+P3sg, pl, NPoss+, INE	kutyáiéiban
+P3sg, pl, NPoss+, ELA	kutyáiéiból
+P3sg, pl, NPoss+, ALL	kutyáiéihoz
+P3sg, pl, NPoss+, ADE	kutyáiéinál
+P3sg, pl, NPoss+, ABL	kutyáiéitól
+P3sg, pl, NPoss+, SUB	kutyáiéira
+P3sg, pl, NPoss+, SUP	kutyáiéin
+P3sg, pl, NPoss+, DEL	kutyáiéiról
+P3sg, pl, NPoss+, INS	kutyáiéival
+P3sg, pl, NPoss+, FAC	kutyáiéivá
+P3sg, pl, NPoss+, FOR	kutyáiéiként
+P3sg, pl, NPoss+, CAU	kutyáiéiért
+P3sg, pl, NPoss+, TER	kutyáiéiig
+
+P1pl, NPoss+, NOM	kutyánkéi
+P1pl, NPoss+, ACC	kutyánkéit
+P1pl, NPoss+, DAT	kutyánkéinak
+P1pl, NPoss+, ILL	kutyánkéiba
+P1pl, NPoss+, INE	kutyánkéiban
+P1pl, NPoss+, ELA	kutyánkéiból
+P1pl, NPoss+, ALL	kutyánkéihoz
+P1pl, NPoss+, ADE	kutyánkéinál
+P1pl, NPoss+, ABL	kutyánkéitól
+P1pl, NPoss+, SUB	kutyánkéira
+P1pl, NPoss+, SUP	kutyánkéin
+P1pl, NPoss+, DEL	kutyánkéiról
+P1pl, NPoss+, INS	kutyánkéival
+P1pl, NPoss+, FAC	kutyánkéivá
+P1pl, NPoss+, FOR	kutyánkéiként
+P1pl, NPoss+, TEM	kutyánkéikor
+P1pl, NPoss+, CAU	kutyánkéiért
+P1pl, NPoss+, TER	kutyánkéiig
+P1pl, NPoss+, ESS	kutyánkéiul
+P1pl, pl, NPoss+, NOM	kutyáinkéi
+P1pl, pl, NPoss+, ACC	kutyáinkéit
+P1pl, pl, NPoss+, DAT	kutyáinkéinak
+P1pl, pl, NPoss+, ILL	kutyáinkéiba
+P1pl, pl, NPoss+, INE	kutyáinkéiban
+P1pl, pl, NPoss+, ELA	kutyáinkéiból
+P1pl, pl, NPoss+, ALL	kutyáinkéihoz
+P1pl, pl, NPoss+, ADE	kutyáinkéinál
+P1pl, pl, NPoss+, ABL	kutyáinkéitól
+P1pl, pl, NPoss+, SUB	kutyáinkéira
+P1pl, pl, NPoss+, SUP	kutyáinkéin
+P1pl, pl, NPoss+, DEL	kutyáinkéiról
+P1pl, pl, NPoss+, INS	kutyáinkéival
+P1pl, pl, NPoss+, FAC	kutyáinkéivá
+P1pl, pl, NPoss+, FOR	kutyáinkéiként
+P1pl, pl, NPoss+, CAU	kutyáinkéiért
+P1pl, pl, NPoss+, TER	kutyáinkéiig
+
+P2pl, NPoss+, NOM	kutyátokéi
+P2pl, NPoss+, ACC	kutyátokéit
+P2pl, NPoss+, DAT	kutyátokéinak
+P2pl, NPoss+, ILL	kutyátokéiba
+P2pl, NPoss+, INE	kutyátokéiban
+P2pl, NPoss+, ELA	kutyátokéiból
+P2pl, NPoss+, ALL	kutyátokéihoz
+P2pl, NPoss+, ADE	kutyátokéinál
+P2pl, NPoss+, ABL	kutyátokéitól
+P2pl, NPoss+, SUB	kutyátokéira
+P2pl, NPoss+, SUP	kutyátokéin
+P2pl, NPoss+, DEL	kutyátokéiról
+P2pl, NPoss+, INS	kutyátokéival
+P2pl, NPoss+, FAC	kutyátokéivá
+P2pl, NPoss+, FOR	kutyátokéiként
+P2pl, NPoss+, TEM	kutyátokéikor
+P2pl, NPoss+, CAU	kutyátokéiért
+P2pl, NPoss+, TER	kutyátokéiig
+P2pl, NPoss+, ESS	kutyátokéiul
+P2pl, pl, NPoss+, NOM	kutyáitokéi
+P2pl, pl, NPoss+, ACC	kutyáitokéit
+P2pl, pl, NPoss+, DAT	kutyáitokéinak
+P2pl, pl, NPoss+, ILL	kutyáitokéiba
+P2pl, pl, NPoss+, INE	kutyáitokéiban
+P2pl, pl, NPoss+, ELA	kutyáitokéiból
+P2pl, pl, NPoss+, ALL	kutyáitokéihoz
+P2pl, pl, NPoss+, ADE	kutyáitokéinál
+P2pl, pl, NPoss+, ABL	kutyáitokéitól
+P2pl, pl, NPoss+, SUB	kutyáitokéira
+P2pl, pl, NPoss+, SUP	kutyáitokéin
+P2pl, pl, NPoss+, DEL	kutyáitokéiról
+P2pl, pl, NPoss+, INS	kutyáitokéival
+P2pl, pl, NPoss+, FAC	kutyáitokéivá
+P2pl, pl, NPoss+, FOR	kutyáitokéiként
+P2pl, pl, NPoss+, CAU	kutyáitokéiért
+P2pl, pl, NPoss+, TER	kutyáitokéiig
+
+P3pl, NPoss+, NOM	kutyájukéi
+P3pl, NPoss+, ACC	kutyájukéit
+P3pl, NPoss+, DAT	kutyájukéinak
+P3pl, NPoss+, ILL	kutyájukéiba
+P3pl, NPoss+, INE	kutyájukéiban
+P3pl, NPoss+, ELA	kutyájukéiból
+P3pl, NPoss+, ALL	kutyájukéihoz
+P3pl, NPoss+, ADE	kutyájukéinál
+P3pl, NPoss+, ABL	kutyájukéitól
+P3pl, NPoss+, SUB	kutyájukéira
+P3pl, NPoss+, SUP	kutyájukéin
+P3pl, NPoss+, DEL	kutyájukéiról
+P3pl, NPoss+, INS	kutyájukéival
+P3pl, NPoss+, FAC	kutyájukéivá
+P3pl, NPoss+, FOR	kutyájukéiként
+P3pl, NPoss+, TEM	kutyájukéikor
+P3pl, NPoss+, CAU	kutyájukéiért
+P3pl, NPoss+, TER	kutyájukéiig
+P3pl, NPoss+, ESS	kutyájukéiul
+P3pl, pl, NPoss+, NOM	kutyáikéi
+P3pl, pl, NPoss+, ACC	kutyáikéit
+P3pl, pl, NPoss+, DAT	kutyáikéinak
+P3pl, pl, NPoss+, ILL	kutyáikéiba
+P3pl, pl, NPoss+, INE	kutyáikéiban
+P3pl, pl, NPoss+, ELA	kutyáikéiból
+P3pl, pl, NPoss+, ALL	kutyáikéihoz
+P3pl, pl, NPoss+, ADE	kutyáikéinál
+P3pl, pl, NPoss+, ABL	kutyáikéitól
+P3pl, pl, NPoss+, SUB	kutyáikéira
+P3pl, pl, NPoss+, SUP	kutyáikéin
+P3pl, pl, NPoss+, DEL	kutyáikéiról
+P3pl, pl, NPoss+, INS	kutyáikéival
+P3pl, pl, NPoss+, FAC	kutyáikéivá
+P3pl, pl, NPoss+, FOR	kutyáikéiként
+P3pl, pl, NPoss+, CAU	kutyáikéiért
+P3pl, pl, NPoss+, TER	kutyáikéiig

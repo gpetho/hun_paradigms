@@ -1,0 +1,2341 @@
+NOM, ACC, DAT, ILL, INE, etc. - nominal cases
+pl - plural
+P1sg, P2sg, P1pl, etc. - possessive with 1st person singular possessor, 2nd person singular possessor, 1st person plural possessor, etc.
+NPoss - nominal possessive marking (é)
+NPoss+ - plural of nominal possessive marking (éi)
+comp - comparative
+super - superlative
+
+NOM	csúnya
+ACC	csúnyát
+DAT	csúnyának
+ILL	csúnyába
+INE	csúnyában
+ELA	csúnyából
+ALL	csúnyához
+ADE	csúnyánál
+ABL	csúnyától
+SUB	csúnyára
+SUP	csúnyán
+DEL	csúnyáról
+INS	csúnyával
+FAC	csúnyává
+FOR	csúnyaként
+TEM	csúnyakor
+CAU	csúnyáért
+TER	csúnyáig
+SOC	csúnyástul
+ESS	csúnyául
+MOD	csúnyán
+pl, NOM	csúnyák
+pl, ACC	csúnyákat
+pl, DAT	csúnyáknak
+pl, ILL	csúnyákba
+pl, INE	csúnyákban
+pl, ELA	csúnyákból
+pl, ALL	csúnyákhoz
+pl, ADE	csúnyáknál
+pl, ABL	csúnyáktól
+pl, SUB	csúnyákra
+pl, SUP	csúnyákon
+pl, DEL	csúnyákról
+pl, INS	csúnyákkal
+pl, FAC	csúnyákká
+pl, FOR	csúnyákként
+pl, CAU	csúnyákért
+pl, TER	csúnyákig
+
+P1sg, NOM	csúnyám
+P1sg, ACC	csúnyámat
+P1sg, DAT	csúnyámnak
+P1sg, ILL	csúnyámba
+P1sg, INE	csúnyámban
+P1sg, ELA	csúnyámból
+P1sg, ALL	csúnyámhoz
+P1sg, ADE	csúnyámnál
+P1sg, ABL	csúnyámtól
+P1sg, SUB	csúnyámra
+P1sg, SUP	csúnyámon
+P1sg, DEL	csúnyámról
+P1sg, INS	csúnyámmal
+P1sg, FAC	csúnyámmá
+P1sg, FOR	csúnyámként
+P1sg, TEM	csúnyámkor
+P1sg, CAU	csúnyámért
+P1sg, TER	csúnyámig
+P1sg, ESS	csúnyámul
+P1sg, pl, NOM	csúnyáim
+P1sg, pl, ACC	csúnyáimat
+P1sg, pl, DAT	csúnyáimnak
+P1sg, pl, ILL	csúnyáimba
+P1sg, pl, INE	csúnyáimban
+P1sg, pl, ELA	csúnyáimból
+P1sg, pl, ALL	csúnyáimhoz
+P1sg, pl, ADE	csúnyáimnál
+P1sg, pl, ABL	csúnyáimtól
+P1sg, pl, SUB	csúnyáimra
+P1sg, pl, SUP	csúnyáimon
+P1sg, pl, DEL	csúnyáimról
+P1sg, pl, INS	csúnyáimmal
+P1sg, pl, FAC	csúnyáimmá
+P1sg, pl, FOR	csúnyáimként
+P1sg, pl, CAU	csúnyáimért
+P1sg, pl, TER	csúnyáimig
+
+P2sg, NOM	csúnyád
+P2sg, ACC	csúnyádat
+P2sg, DAT	csúnyádnak
+P2sg, ILL	csúnyádba
+P2sg, INE	csúnyádban
+P2sg, ELA	csúnyádból
+P2sg, ALL	csúnyádhoz
+P2sg, ADE	csúnyádnál
+P2sg, ABL	csúnyádtól
+P2sg, SUB	csúnyádra
+P2sg, SUP	csúnyádon
+P2sg, DEL	csúnyádról
+P2sg, INS	csúnyáddal
+P2sg, FAC	csúnyáddá
+P2sg, FOR	csúnyádként
+P2sg, TEM	csúnyádkor
+P2sg, CAU	csúnyádért
+P2sg, TER	csúnyádig
+P2sg, ESS	csúnyádul
+P2sg, pl, NOM	csúnyáid
+P2sg, pl, ACC	csúnyáidat
+P2sg, pl, DAT	csúnyáidnak
+P2sg, pl, ILL	csúnyáidba
+P2sg, pl, INE	csúnyáidban
+P2sg, pl, ELA	csúnyáidból
+P2sg, pl, ALL	csúnyáidhoz
+P2sg, pl, ADE	csúnyáidnál
+P2sg, pl, ABL	csúnyáidtól
+P2sg, pl, SUB	csúnyáidra
+P2sg, pl, SUP	csúnyáidon
+P2sg, pl, DEL	csúnyáidról
+P2sg, pl, INS	csúnyáiddal
+P2sg, pl, FAC	csúnyáiddá
+P2sg, pl, FOR	csúnyáidként
+P2sg, pl, CAU	csúnyáidért
+P2sg, pl, TER	csúnyáidig
+
+P3sg, NOM	csúnyája
+P3sg, ACC	csúnyáját
+P3sg, DAT	csúnyájának
+P3sg, ILL	csúnyájába
+P3sg, INE	csúnyájában
+P3sg, ELA	csúnyájából
+P3sg, ALL	csúnyájához
+P3sg, ADE	csúnyájánál
+P3sg, ABL	csúnyájától
+P3sg, SUB	csúnyájára
+P3sg, SUP	csúnyáján
+P3sg, DEL	csúnyájáról
+P3sg, INS	csúnyájával
+P3sg, FAC	csúnyájává
+P3sg, FOR	csúnyájaként
+P3sg, TEM	csúnyájakor
+P3sg, CAU	csúnyájáért
+P3sg, TER	csúnyájáig
+P3sg, ESS	csúnyájául
+P3sg, pl, NOM	csúnyái
+P3sg, pl, ACC	csúnyáit
+P3sg, pl, DAT	csúnyáinak
+P3sg, pl, ILL	csúnyáiba
+P3sg, pl, INE	csúnyáiban
+P3sg, pl, ELA	csúnyáiból
+P3sg, pl, ALL	csúnyáihoz
+P3sg, pl, ADE	csúnyáinál
+P3sg, pl, ABL	csúnyáitól
+P3sg, pl, SUB	csúnyáira
+P3sg, pl, SUP	csúnyáin
+P3sg, pl, DEL	csúnyáiról
+P3sg, pl, INS	csúnyáival
+P3sg, pl, FAC	csúnyáivá
+P3sg, pl, FOR	csúnyáiként
+P3sg, pl, CAU	csúnyáiért
+P3sg, pl, TER	csúnyáiig
+
+P1pl, NOM	csúnyánk
+P1pl, ACC	csúnyánkat
+P1pl, DAT	csúnyánknak
+P1pl, ILL	csúnyánkba
+P1pl, INE	csúnyánkban
+P1pl, ELA	csúnyánkból
+P1pl, ALL	csúnyánkhoz
+P1pl, ADE	csúnyánknál
+P1pl, ABL	csúnyánktól
+P1pl, SUB	csúnyánkra
+P1pl, SUP	csúnyánkon
+P1pl, DEL	csúnyánkról
+P1pl, INS	csúnyánkkal
+P1pl, FAC	csúnyánkká
+P1pl, FOR	csúnyánkként
+P1pl, CAU	csúnyánkért
+P1pl, TER	csúnyánkig
+P1pl, ESS	csúnyánkul
+P1pl, pl, NOM	csúnyáink
+P1pl, pl, ACC	csúnyáinkat
+P1pl, pl, DAT	csúnyáinknak
+P1pl, pl, ILL	csúnyáinkba
+P1pl, pl, INE	csúnyáinkban
+P1pl, pl, ELA	csúnyáinkból
+P1pl, pl, ALL	csúnyáinkhoz
+P1pl, pl, ADE	csúnyáinknál
+P1pl, pl, ABL	csúnyáinktól
+P1pl, pl, SUB	csúnyáinkra
+P1pl, pl, SUP	csúnyáinkon
+P1pl, pl, DEL	csúnyáinkról
+P1pl, pl, INS	csúnyáinkkal
+P1pl, pl, FAC	csúnyáinkká
+P1pl, pl, FOR	csúnyáinkként
+P1pl, pl, CAU	csúnyáinkért
+P1pl, pl, TER	csúnyáinkig
+
+P2pl, NOM	csúnyátok
+P2pl, ACC	csúnyátokat
+P2pl, DAT	csúnyátoknak
+P2pl, ILL	csúnyátokba
+P2pl, INE	csúnyátokban
+P2pl, ELA	csúnyátokból
+P2pl, ALL	csúnyátokhoz
+P2pl, ADE	csúnyátoknál
+P2pl, ABL	csúnyátoktól
+P2pl, SUB	csúnyátokra
+P2pl, SUP	csúnyátokon
+P2pl, DEL	csúnyátokról
+P2pl, INS	csúnyátokkal
+P2pl, FAC	csúnyátokká
+P2pl, FOR	csúnyátokként
+P2pl, CAU	csúnyátokért
+P2pl, TER	csúnyátokig
+P2pl, ESS	csúnyátokul
+P2pl, pl, NOM	csúnyáitok
+P2pl, pl, ACC	csúnyáitokat
+P2pl, pl, DAT	csúnyáitoknak
+P2pl, pl, ILL	csúnyáitokba
+P2pl, pl, INE	csúnyáitokban
+P2pl, pl, ELA	csúnyáitokból
+P2pl, pl, ALL	csúnyáitokhoz
+P2pl, pl, ADE	csúnyáitoknál
+P2pl, pl, ABL	csúnyáitoktól
+P2pl, pl, SUB	csúnyáitokra
+P2pl, pl, SUP	csúnyáitokon
+P2pl, pl, DEL	csúnyáitokról
+P2pl, pl, INS	csúnyáitokkal
+P2pl, pl, FAC	csúnyáitokká
+P2pl, pl, FOR	csúnyáitokként
+P2pl, pl, CAU	csúnyáitokért
+P2pl, pl, TER	csúnyáitokig
+
+P3pl, NOM	csúnyájuk
+P3pl, ACC	csúnyájukat
+P3pl, DAT	csúnyájuknak
+P3pl, ILL	csúnyájukba
+P3pl, INE	csúnyájukban
+P3pl, ELA	csúnyájukból
+P3pl, ALL	csúnyájukhoz
+P3pl, ADE	csúnyájuknál
+P3pl, ABL	csúnyájuktól
+P3pl, SUB	csúnyájukra
+P3pl, SUP	csúnyájukon
+P3pl, DEL	csúnyájukról
+P3pl, INS	csúnyájukkal
+P3pl, FAC	csúnyájukká
+P3pl, FOR	csúnyájukként
+P3pl, CAU	csúnyájukért
+P3pl, TER	csúnyájukig
+P3pl, ESS	csúnyájukul
+P3pl, pl, NOM	csúnyáik
+P3pl, pl, ACC	csúnyáikat
+P3pl, pl, DAT	csúnyáiknak
+P3pl, pl, ILL	csúnyáikba
+P3pl, pl, INE	csúnyáikban
+P3pl, pl, ELA	csúnyáikból
+P3pl, pl, ALL	csúnyáikhoz
+P3pl, pl, ADE	csúnyáiknál
+P3pl, pl, ABL	csúnyáiktól
+P3pl, pl, SUB	csúnyáikra
+P3pl, pl, SUP	csúnyáikon
+P3pl, pl, DEL	csúnyáikról
+P3pl, pl, INS	csúnyáikkal
+P3pl, pl, FAC	csúnyáikká
+P3pl, pl, FOR	csúnyáikként
+P3pl, pl, CAU	csúnyáikért
+P3pl, pl, TER	csúnyáikig
+
+NPoss, NOM	csúnyáé
+NPoss, ACC	csúnyáét
+NPoss, DAT	csúnyáénak
+NPoss, ILL	csúnyáéba
+NPoss, INE	csúnyáéban
+NPoss, ELA	csúnyáéból
+NPoss, ALL	csúnyáéhoz
+NPoss, ADE	csúnyáénál
+NPoss, ABL	csúnyáétól
+NPoss, SUB	csúnyáéra
+NPoss, SUP	csúnyáén
+NPoss, DEL	csúnyáéról
+NPoss, INS	csúnyáéval
+NPoss, FAC	csúnyáévá
+NPoss, FOR	csúnyáéként
+NPoss, TEM	csúnyáékor
+NPoss, CAU	csúnyáéért
+NPoss, TER	csúnyáéig
+NPoss, SOC	csúnyáéstul
+NPoss, ESS	csúnyáéul
+pl, NPoss, NOM	csúnyáké
+pl, NPoss, ACC	csúnyákét
+pl, NPoss, DAT	csúnyákénak
+pl, NPoss, ILL	csúnyákéba
+pl, NPoss, INE	csúnyákéban
+pl, NPoss, ELA	csúnyákéból
+pl, NPoss, ALL	csúnyákéhoz
+pl, NPoss, ADE	csúnyákénál
+pl, NPoss, ABL	csúnyákétól
+pl, NPoss, SUB	csúnyákéra
+pl, NPoss, SUP	csúnyákén
+pl, NPoss, DEL	csúnyákéról
+pl, NPoss, INS	csúnyákéval
+pl, NPoss, FAC	csúnyákévá
+pl, NPoss, FOR	csúnyákéként
+pl, NPoss, CAU	csúnyákéért
+pl, NPoss, TER	csúnyákéig
+
+P1sg, NPoss, NOM	csúnyámé
+P1sg, NPoss, ACC	csúnyámét
+P1sg, NPoss, DAT	csúnyáménak
+P1sg, NPoss, ILL	csúnyáméba
+P1sg, NPoss, INE	csúnyáméban
+P1sg, NPoss, ELA	csúnyáméból
+P1sg, NPoss, ALL	csúnyáméhoz
+P1sg, NPoss, ADE	csúnyáménál
+P1sg, NPoss, ABL	csúnyámétól
+P1sg, NPoss, SUB	csúnyáméra
+P1sg, NPoss, SUP	csúnyámén
+P1sg, NPoss, DEL	csúnyáméról
+P1sg, NPoss, INS	csúnyáméval
+P1sg, NPoss, FAC	csúnyámévá
+P1sg, NPoss, FOR	csúnyáméként
+P1sg, NPoss, TEM	csúnyámékor
+P1sg, NPoss, CAU	csúnyáméért
+P1sg, NPoss, TER	csúnyáméig
+P1sg, NPoss, ESS	csúnyáméul
+P1sg, pl, NPoss, NOM	csúnyáimé
+P1sg, pl, NPoss, ACC	csúnyáimét
+P1sg, pl, NPoss, DAT	csúnyáiménak
+P1sg, pl, NPoss, ILL	csúnyáiméba
+P1sg, pl, NPoss, INE	csúnyáiméban
+P1sg, pl, NPoss, ELA	csúnyáiméból
+P1sg, pl, NPoss, ALL	csúnyáiméhoz
+P1sg, pl, NPoss, ADE	csúnyáiménál
+P1sg, pl, NPoss, ABL	csúnyáimétól
+P1sg, pl, NPoss, SUB	csúnyáiméra
+P1sg, pl, NPoss, SUP	csúnyáimén
+P1sg, pl, NPoss, DEL	csúnyáiméról
+P1sg, pl, NPoss, INS	csúnyáiméval
+P1sg, pl, NPoss, FAC	csúnyáimévá
+P1sg, pl, NPoss, FOR	csúnyáiméként
+P1sg, pl, NPoss, CAU	csúnyáiméért
+P1sg, pl, NPoss, TER	csúnyáiméig
+
+P2sg, NPoss, NOM	csúnyádé
+P2sg, NPoss, ACC	csúnyádét
+P2sg, NPoss, DAT	csúnyádénak
+P2sg, NPoss, ILL	csúnyádéba
+P2sg, NPoss, INE	csúnyádéban
+P2sg, NPoss, ELA	csúnyádéból
+P2sg, NPoss, ALL	csúnyádéhoz
+P2sg, NPoss, ADE	csúnyádénál
+P2sg, NPoss, ABL	csúnyádétól
+P2sg, NPoss, SUB	csúnyádéra
+P2sg, NPoss, SUP	csúnyádén
+P2sg, NPoss, DEL	csúnyádéról
+P2sg, NPoss, INS	csúnyádéval
+P2sg, NPoss, FAC	csúnyádévá
+P2sg, NPoss, FOR	csúnyádéként
+P2sg, NPoss, TEM	csúnyádékor
+P2sg, NPoss, CAU	csúnyádéért
+P2sg, NPoss, TER	csúnyádéig
+P2sg, NPoss, ESS	csúnyádéul
+P2sg, pl, NPoss, NOM	csúnyáidé
+P2sg, pl, NPoss, ACC	csúnyáidét
+P2sg, pl, NPoss, DAT	csúnyáidénak
+P2sg, pl, NPoss, ILL	csúnyáidéba
+P2sg, pl, NPoss, INE	csúnyáidéban
+P2sg, pl, NPoss, ELA	csúnyáidéból
+P2sg, pl, NPoss, ALL	csúnyáidéhoz
+P2sg, pl, NPoss, ADE	csúnyáidénál
+P2sg, pl, NPoss, ABL	csúnyáidétól
+P2sg, pl, NPoss, SUB	csúnyáidéra
+P2sg, pl, NPoss, SUP	csúnyáidén
+P2sg, pl, NPoss, DEL	csúnyáidéról
+P2sg, pl, NPoss, INS	csúnyáidéval
+P2sg, pl, NPoss, FAC	csúnyáidévá
+P2sg, pl, NPoss, FOR	csúnyáidéként
+P2sg, pl, NPoss, CAU	csúnyáidéért
+P2sg, pl, NPoss, TER	csúnyáidéig
+
+P3sg, NPoss, NOM	csúnyájáé
+P3sg, NPoss, ACC	csúnyájáét
+P3sg, NPoss, DAT	csúnyájáénak
+P3sg, NPoss, ILL	csúnyájáéba
+P3sg, NPoss, INE	csúnyájáéban
+P3sg, NPoss, ELA	csúnyájáéból
+P3sg, NPoss, ALL	csúnyájáéhoz
+P3sg, NPoss, ADE	csúnyájáénál
+P3sg, NPoss, ABL	csúnyájáétól
+P3sg, NPoss, SUB	csúnyájáéra
+P3sg, NPoss, SUP	csúnyájáén
+P3sg, NPoss, DEL	csúnyájáéról
+P3sg, NPoss, INS	csúnyájáéval
+P3sg, NPoss, FAC	csúnyájáévá
+P3sg, NPoss, FOR	csúnyájáéként
+P3sg, NPoss, TEM	csúnyájáékor
+P3sg, NPoss, CAU	csúnyájáéért
+P3sg, NPoss, TER	csúnyájáéig
+P3sg, NPoss, ESS	csúnyájáéul
+P3sg, pl, NPoss, NOM	csúnyáié
+P3sg, pl, NPoss, ACC	csúnyáiét
+P3sg, pl, NPoss, DAT	csúnyáiénak
+P3sg, pl, NPoss, ILL	csúnyáiéba
+P3sg, pl, NPoss, INE	csúnyáiéban
+P3sg, pl, NPoss, ELA	csúnyáiéból
+P3sg, pl, NPoss, ALL	csúnyáiéhoz
+P3sg, pl, NPoss, ADE	csúnyáiénál
+P3sg, pl, NPoss, ABL	csúnyáiétól
+P3sg, pl, NPoss, SUB	csúnyáiéra
+P3sg, pl, NPoss, SUP	csúnyáién
+P3sg, pl, NPoss, DEL	csúnyáiéról
+P3sg, pl, NPoss, INS	csúnyáiéval
+P3sg, pl, NPoss, FAC	csúnyáiévá
+P3sg, pl, NPoss, FOR	csúnyáiéként
+P3sg, pl, NPoss, CAU	csúnyáiéért
+P3sg, pl, NPoss, TER	csúnyáiéig
+
+P1pl, NPoss, NOM	csúnyánké
+P1pl, NPoss, ACC	csúnyánkét
+P1pl, NPoss, DAT	csúnyánkénak
+P1pl, NPoss, ILL	csúnyánkéba
+P1pl, NPoss, INE	csúnyánkéban
+P1pl, NPoss, ELA	csúnyánkéból
+P1pl, NPoss, ALL	csúnyánkéhoz
+P1pl, NPoss, ADE	csúnyánkénál
+P1pl, NPoss, ABL	csúnyánkétól
+P1pl, NPoss, SUB	csúnyánkéra
+P1pl, NPoss, SUP	csúnyánkén
+P1pl, NPoss, DEL	csúnyánkéról
+P1pl, NPoss, INS	csúnyánkéval
+P1pl, NPoss, FAC	csúnyánkévá
+P1pl, NPoss, FOR	csúnyánkéként
+P1pl, NPoss, TEM	csúnyánkékor
+P1pl, NPoss, CAU	csúnyánkéért
+P1pl, NPoss, TER	csúnyánkéig
+P1pl, NPoss, ESS	csúnyánkéul
+P1pl, pl, NPoss, NOM	csúnyáinké
+P1pl, pl, NPoss, ACC	csúnyáinkét
+P1pl, pl, NPoss, DAT	csúnyáinkénak
+P1pl, pl, NPoss, ILL	csúnyáinkéba
+P1pl, pl, NPoss, INE	csúnyáinkéban
+P1pl, pl, NPoss, ELA	csúnyáinkéból
+P1pl, pl, NPoss, ALL	csúnyáinkéhoz
+P1pl, pl, NPoss, ADE	csúnyáinkénál
+P1pl, pl, NPoss, ABL	csúnyáinkétól
+P1pl, pl, NPoss, SUB	csúnyáinkéra
+P1pl, pl, NPoss, SUP	csúnyáinkén
+P1pl, pl, NPoss, DEL	csúnyáinkéról
+P1pl, pl, NPoss, INS	csúnyáinkéval
+P1pl, pl, NPoss, FAC	csúnyáinkévá
+P1pl, pl, NPoss, FOR	csúnyáinkéként
+P1pl, pl, NPoss, CAU	csúnyáinkéért
+P1pl, pl, NPoss, TER	csúnyáinkéig
+
+P2pl, NPoss, NOM	csúnyátoké
+P2pl, NPoss, ACC	csúnyátokét
+P2pl, NPoss, DAT	csúnyátokénak
+P2pl, NPoss, ILL	csúnyátokéba
+P2pl, NPoss, INE	csúnyátokéban
+P2pl, NPoss, ELA	csúnyátokéból
+P2pl, NPoss, ALL	csúnyátokéhoz
+P2pl, NPoss, ADE	csúnyátokénál
+P2pl, NPoss, ABL	csúnyátokétól
+P2pl, NPoss, SUB	csúnyátokéra
+P2pl, NPoss, SUP	csúnyátokén
+P2pl, NPoss, DEL	csúnyátokéról
+P2pl, NPoss, INS	csúnyátokéval
+P2pl, NPoss, FAC	csúnyátokévá
+P2pl, NPoss, FOR	csúnyátokéként
+P2pl, NPoss, TEM	csúnyátokékor
+P2pl, NPoss, CAU	csúnyátokéért
+P2pl, NPoss, TER	csúnyátokéig
+P2pl, NPoss, ESS	csúnyátokéul
+P2pl, pl, NPoss, NOM	csúnyáitoké
+P2pl, pl, NPoss, ACC	csúnyáitokét
+P2pl, pl, NPoss, DAT	csúnyáitokénak
+P2pl, pl, NPoss, ILL	csúnyáitokéba
+P2pl, pl, NPoss, INE	csúnyáitokéban
+P2pl, pl, NPoss, ELA	csúnyáitokéból
+P2pl, pl, NPoss, ALL	csúnyáitokéhoz
+P2pl, pl, NPoss, ADE	csúnyáitokénál
+P2pl, pl, NPoss, ABL	csúnyáitokétól
+P2pl, pl, NPoss, SUB	csúnyáitokéra
+P2pl, pl, NPoss, SUP	csúnyáitokén
+P2pl, pl, NPoss, DEL	csúnyáitokéról
+P2pl, pl, NPoss, INS	csúnyáitokéval
+P2pl, pl, NPoss, FAC	csúnyáitokévá
+P2pl, pl, NPoss, FOR	csúnyáitokéként
+P2pl, pl, NPoss, CAU	csúnyáitokéért
+P2pl, pl, NPoss, TER	csúnyáitokéig
+
+P3pl, NPoss, NOM	csúnyájuké
+P3pl, NPoss, ACC	csúnyájukét
+P3pl, NPoss, DAT	csúnyájukénak
+P3pl, NPoss, ILL	csúnyájukéba
+P3pl, NPoss, INE	csúnyájukéban
+P3pl, NPoss, ELA	csúnyájukéból
+P3pl, NPoss, ALL	csúnyájukéhoz
+P3pl, NPoss, ADE	csúnyájukénál
+P3pl, NPoss, ABL	csúnyájukétól
+P3pl, NPoss, SUB	csúnyájukéra
+P3pl, NPoss, SUP	csúnyájukén
+P3pl, NPoss, DEL	csúnyájukéról
+P3pl, NPoss, INS	csúnyájukéval
+P3pl, NPoss, FAC	csúnyájukévá
+P3pl, NPoss, FOR	csúnyájukéként
+P3pl, NPoss, TEM	csúnyájukékor
+P3pl, NPoss, CAU	csúnyájukéért
+P3pl, NPoss, TER	csúnyájukéig
+P3pl, NPoss, ESS	csúnyájukéul
+P3pl, pl, NPoss, NOM	csúnyáiké
+P3pl, pl, NPoss, ACC	csúnyáikét
+P3pl, pl, NPoss, DAT	csúnyáikénak
+P3pl, pl, NPoss, ILL	csúnyáikéba
+P3pl, pl, NPoss, INE	csúnyáikéban
+P3pl, pl, NPoss, ELA	csúnyáikéból
+P3pl, pl, NPoss, ALL	csúnyáikéhoz
+P3pl, pl, NPoss, ADE	csúnyáikénál
+P3pl, pl, NPoss, ABL	csúnyáikétól
+P3pl, pl, NPoss, SUB	csúnyáikéra
+P3pl, pl, NPoss, SUP	csúnyáikén
+P3pl, pl, NPoss, DEL	csúnyáikéról
+P3pl, pl, NPoss, INS	csúnyáikéval
+P3pl, pl, NPoss, FAC	csúnyáikévá
+P3pl, pl, NPoss, FOR	csúnyáikéként
+P3pl, pl, NPoss, CAU	csúnyáikéért
+P3pl, pl, NPoss, TER	csúnyáikéig
+
+NPoss+, NOM	csúnyáéi
+NPoss+, ACC	csúnyáéit
+NPoss+, DAT	csúnyáéinak
+NPoss+, ILL	csúnyáéiba
+NPoss+, INE	csúnyáéiban
+NPoss+, ELA	csúnyáéiból
+NPoss+, ALL	csúnyáéihoz
+NPoss+, ADE	csúnyáéinál
+NPoss+, ABL	csúnyáéitól
+NPoss+, SUB	csúnyáéira
+NPoss+, SUP	csúnyáéin
+NPoss+, DEL	csúnyáéiról
+NPoss+, INS	csúnyáéival
+NPoss+, FAC	csúnyáéivá
+NPoss+, FOR	csúnyáéiként
+NPoss+, TEM	csúnyáéikor
+NPoss+, CAU	csúnyáéiért
+NPoss+, TER	csúnyáéiig
+NPoss+, SOC	csúnyáéistul
+NPoss+, ESS	csúnyáéiul
+pl, NPoss+, NOM	csúnyákéi
+pl, NPoss+, ACC	csúnyákéit
+pl, NPoss+, DAT	csúnyákéinak
+pl, NPoss+, ILL	csúnyákéiba
+pl, NPoss+, INE	csúnyákéiban
+pl, NPoss+, ELA	csúnyákéiból
+pl, NPoss+, ALL	csúnyákéihoz
+pl, NPoss+, ADE	csúnyákéinál
+pl, NPoss+, ABL	csúnyákéitól
+pl, NPoss+, SUB	csúnyákéira
+pl, NPoss+, SUP	csúnyákéin
+pl, NPoss+, DEL	csúnyákéiról
+pl, NPoss+, INS	csúnyákéival
+pl, NPoss+, FAC	csúnyákéivá
+pl, NPoss+, FOR	csúnyákéiként
+pl, NPoss+, CAU	csúnyákéiért
+pl, NPoss+, TER	csúnyákéiig
+
+P1sg, NPoss+, NOM	csúnyáméi
+P1sg, NPoss+, ACC	csúnyáméit
+P1sg, NPoss+, DAT	csúnyáméinak
+P1sg, NPoss+, ILL	csúnyáméiba
+P1sg, NPoss+, INE	csúnyáméiban
+P1sg, NPoss+, ELA	csúnyáméiból
+P1sg, NPoss+, ALL	csúnyáméihoz
+P1sg, NPoss+, ADE	csúnyáméinál
+P1sg, NPoss+, ABL	csúnyáméitól
+P1sg, NPoss+, SUB	csúnyáméira
+P1sg, NPoss+, SUP	csúnyáméin
+P1sg, NPoss+, DEL	csúnyáméiról
+P1sg, NPoss+, INS	csúnyáméival
+P1sg, NPoss+, FAC	csúnyáméivá
+P1sg, NPoss+, FOR	csúnyáméiként
+P1sg, NPoss+, TEM	csúnyáméikor
+P1sg, NPoss+, CAU	csúnyáméiért
+P1sg, NPoss+, TER	csúnyáméiig
+P1sg, NPoss+, ESS	csúnyáméiul
+P1sg, pl, NPoss+, NOM	csúnyáiméi
+P1sg, pl, NPoss+, ACC	csúnyáiméit
+P1sg, pl, NPoss+, DAT	csúnyáiméinak
+P1sg, pl, NPoss+, ILL	csúnyáiméiba
+P1sg, pl, NPoss+, INE	csúnyáiméiban
+P1sg, pl, NPoss+, ELA	csúnyáiméiból
+P1sg, pl, NPoss+, ALL	csúnyáiméihoz
+P1sg, pl, NPoss+, ADE	csúnyáiméinál
+P1sg, pl, NPoss+, ABL	csúnyáiméitól
+P1sg, pl, NPoss+, SUB	csúnyáiméira
+P1sg, pl, NPoss+, SUP	csúnyáiméin
+P1sg, pl, NPoss+, DEL	csúnyáiméiról
+P1sg, pl, NPoss+, INS	csúnyáiméival
+P1sg, pl, NPoss+, FAC	csúnyáiméivá
+P1sg, pl, NPoss+, FOR	csúnyáiméiként
+P1sg, pl, NPoss+, CAU	csúnyáiméiért
+P1sg, pl, NPoss+, TER	csúnyáiméiig
+
+P2sg, NPoss+, NOM	csúnyádéi
+P2sg, NPoss+, ACC	csúnyádéit
+P2sg, NPoss+, DAT	csúnyádéinak
+P2sg, NPoss+, ILL	csúnyádéiba
+P2sg, NPoss+, INE	csúnyádéiban
+P2sg, NPoss+, ELA	csúnyádéiból
+P2sg, NPoss+, ALL	csúnyádéihoz
+P2sg, NPoss+, ADE	csúnyádéinál
+P2sg, NPoss+, ABL	csúnyádéitól
+P2sg, NPoss+, SUB	csúnyádéira
+P2sg, NPoss+, SUP	csúnyádéin
+P2sg, NPoss+, DEL	csúnyádéiról
+P2sg, NPoss+, INS	csúnyádéival
+P2sg, NPoss+, FAC	csúnyádéivá
+P2sg, NPoss+, FOR	csúnyádéiként
+P2sg, NPoss+, TEM	csúnyádéikor
+P2sg, NPoss+, CAU	csúnyádéiért
+P2sg, NPoss+, TER	csúnyádéiig
+P2sg, NPoss+, ESS	csúnyádéiul
+P2sg, pl, NPoss+, NOM	csúnyáidéi
+P2sg, pl, NPoss+, ACC	csúnyáidéit
+P2sg, pl, NPoss+, DAT	csúnyáidéinak
+P2sg, pl, NPoss+, ILL	csúnyáidéiba
+P2sg, pl, NPoss+, INE	csúnyáidéiban
+P2sg, pl, NPoss+, ELA	csúnyáidéiból
+P2sg, pl, NPoss+, ALL	csúnyáidéihoz
+P2sg, pl, NPoss+, ADE	csúnyáidéinál
+P2sg, pl, NPoss+, ABL	csúnyáidéitól
+P2sg, pl, NPoss+, SUB	csúnyáidéira
+P2sg, pl, NPoss+, SUP	csúnyáidéin
+P2sg, pl, NPoss+, DEL	csúnyáidéiról
+P2sg, pl, NPoss+, INS	csúnyáidéival
+P2sg, pl, NPoss+, FAC	csúnyáidéivá
+P2sg, pl, NPoss+, FOR	csúnyáidéiként
+P2sg, pl, NPoss+, CAU	csúnyáidéiért
+P2sg, pl, NPoss+, TER	csúnyáidéiig
+
+P3sg, NPoss+, NOM	csúnyájáéi
+P3sg, NPoss+, ACC	csúnyájáéit
+P3sg, NPoss+, DAT	csúnyájáéinak
+P3sg, NPoss+, ILL	csúnyájáéiba
+P3sg, NPoss+, INE	csúnyájáéiban
+P3sg, NPoss+, ELA	csúnyájáéiból
+P3sg, NPoss+, ALL	csúnyájáéihoz
+P3sg, NPoss+, ADE	csúnyájáéinál
+P3sg, NPoss+, ABL	csúnyájáéitól
+P3sg, NPoss+, SUB	csúnyájáéira
+P3sg, NPoss+, SUP	csúnyájáéin
+P3sg, NPoss+, DEL	csúnyájáéiról
+P3sg, NPoss+, INS	csúnyájáéival
+P3sg, NPoss+, FAC	csúnyájáéivá
+P3sg, NPoss+, FOR	csúnyájáéiként
+P3sg, NPoss+, TEM	csúnyájáéikor
+P3sg, NPoss+, CAU	csúnyájáéiért
+P3sg, NPoss+, TER	csúnyájáéiig
+P3sg, NPoss+, ESS	csúnyájáéiul
+P3sg, pl, NPoss+, NOM	csúnyáiéi
+P3sg, pl, NPoss+, ACC	csúnyáiéit
+P3sg, pl, NPoss+, DAT	csúnyáiéinak
+P3sg, pl, NPoss+, ILL	csúnyáiéiba
+P3sg, pl, NPoss+, INE	csúnyáiéiban
+P3sg, pl, NPoss+, ELA	csúnyáiéiból
+P3sg, pl, NPoss+, ALL	csúnyáiéihoz
+P3sg, pl, NPoss+, ADE	csúnyáiéinál
+P3sg, pl, NPoss+, ABL	csúnyáiéitól
+P3sg, pl, NPoss+, SUB	csúnyáiéira
+P3sg, pl, NPoss+, SUP	csúnyáiéin
+P3sg, pl, NPoss+, DEL	csúnyáiéiról
+P3sg, pl, NPoss+, INS	csúnyáiéival
+P3sg, pl, NPoss+, FAC	csúnyáiéivá
+P3sg, pl, NPoss+, FOR	csúnyáiéiként
+P3sg, pl, NPoss+, CAU	csúnyáiéiért
+P3sg, pl, NPoss+, TER	csúnyáiéiig
+
+P1pl, NPoss+, NOM	csúnyánkéi
+P1pl, NPoss+, ACC	csúnyánkéit
+P1pl, NPoss+, DAT	csúnyánkéinak
+P1pl, NPoss+, ILL	csúnyánkéiba
+P1pl, NPoss+, INE	csúnyánkéiban
+P1pl, NPoss+, ELA	csúnyánkéiból
+P1pl, NPoss+, ALL	csúnyánkéihoz
+P1pl, NPoss+, ADE	csúnyánkéinál
+P1pl, NPoss+, ABL	csúnyánkéitól
+P1pl, NPoss+, SUB	csúnyánkéira
+P1pl, NPoss+, SUP	csúnyánkéin
+P1pl, NPoss+, DEL	csúnyánkéiról
+P1pl, NPoss+, INS	csúnyánkéival
+P1pl, NPoss+, FAC	csúnyánkéivá
+P1pl, NPoss+, FOR	csúnyánkéiként
+P1pl, NPoss+, TEM	csúnyánkéikor
+P1pl, NPoss+, CAU	csúnyánkéiért
+P1pl, NPoss+, TER	csúnyánkéiig
+P1pl, NPoss+, ESS	csúnyánkéiul
+P1pl, pl, NPoss+, NOM	csúnyáinkéi
+P1pl, pl, NPoss+, ACC	csúnyáinkéit
+P1pl, pl, NPoss+, DAT	csúnyáinkéinak
+P1pl, pl, NPoss+, ILL	csúnyáinkéiba
+P1pl, pl, NPoss+, INE	csúnyáinkéiban
+P1pl, pl, NPoss+, ELA	csúnyáinkéiból
+P1pl, pl, NPoss+, ALL	csúnyáinkéihoz
+P1pl, pl, NPoss+, ADE	csúnyáinkéinál
+P1pl, pl, NPoss+, ABL	csúnyáinkéitól
+P1pl, pl, NPoss+, SUB	csúnyáinkéira
+P1pl, pl, NPoss+, SUP	csúnyáinkéin
+P1pl, pl, NPoss+, DEL	csúnyáinkéiról
+P1pl, pl, NPoss+, INS	csúnyáinkéival
+P1pl, pl, NPoss+, FAC	csúnyáinkéivá
+P1pl, pl, NPoss+, FOR	csúnyáinkéiként
+P1pl, pl, NPoss+, CAU	csúnyáinkéiért
+P1pl, pl, NPoss+, TER	csúnyáinkéiig
+
+P2pl, NPoss+, NOM	csúnyátokéi
+P2pl, NPoss+, ACC	csúnyátokéit
+P2pl, NPoss+, DAT	csúnyátokéinak
+P2pl, NPoss+, ILL	csúnyátokéiba
+P2pl, NPoss+, INE	csúnyátokéiban
+P2pl, NPoss+, ELA	csúnyátokéiból
+P2pl, NPoss+, ALL	csúnyátokéihoz
+P2pl, NPoss+, ADE	csúnyátokéinál
+P2pl, NPoss+, ABL	csúnyátokéitól
+P2pl, NPoss+, SUB	csúnyátokéira
+P2pl, NPoss+, SUP	csúnyátokéin
+P2pl, NPoss+, DEL	csúnyátokéiról
+P2pl, NPoss+, INS	csúnyátokéival
+P2pl, NPoss+, FAC	csúnyátokéivá
+P2pl, NPoss+, FOR	csúnyátokéiként
+P2pl, NPoss+, TEM	csúnyátokéikor
+P2pl, NPoss+, CAU	csúnyátokéiért
+P2pl, NPoss+, TER	csúnyátokéiig
+P2pl, NPoss+, ESS	csúnyátokéiul
+P2pl, pl, NPoss+, NOM	csúnyáitokéi
+P2pl, pl, NPoss+, ACC	csúnyáitokéit
+P2pl, pl, NPoss+, DAT	csúnyáitokéinak
+P2pl, pl, NPoss+, ILL	csúnyáitokéiba
+P2pl, pl, NPoss+, INE	csúnyáitokéiban
+P2pl, pl, NPoss+, ELA	csúnyáitokéiból
+P2pl, pl, NPoss+, ALL	csúnyáitokéihoz
+P2pl, pl, NPoss+, ADE	csúnyáitokéinál
+P2pl, pl, NPoss+, ABL	csúnyáitokéitól
+P2pl, pl, NPoss+, SUB	csúnyáitokéira
+P2pl, pl, NPoss+, SUP	csúnyáitokéin
+P2pl, pl, NPoss+, DEL	csúnyáitokéiról
+P2pl, pl, NPoss+, INS	csúnyáitokéival
+P2pl, pl, NPoss+, FAC	csúnyáitokéivá
+P2pl, pl, NPoss+, FOR	csúnyáitokéiként
+P2pl, pl, NPoss+, CAU	csúnyáitokéiért
+P2pl, pl, NPoss+, TER	csúnyáitokéiig
+
+P3pl, NPoss+, NOM	csúnyájukéi
+P3pl, NPoss+, ACC	csúnyájukéit
+P3pl, NPoss+, DAT	csúnyájukéinak
+P3pl, NPoss+, ILL	csúnyájukéiba
+P3pl, NPoss+, INE	csúnyájukéiban
+P3pl, NPoss+, ELA	csúnyájukéiból
+P3pl, NPoss+, ALL	csúnyájukéihoz
+P3pl, NPoss+, ADE	csúnyájukéinál
+P3pl, NPoss+, ABL	csúnyájukéitól
+P3pl, NPoss+, SUB	csúnyájukéira
+P3pl, NPoss+, SUP	csúnyájukéin
+P3pl, NPoss+, DEL	csúnyájukéiról
+P3pl, NPoss+, INS	csúnyájukéival
+P3pl, NPoss+, FAC	csúnyájukéivá
+P3pl, NPoss+, FOR	csúnyájukéiként
+P3pl, NPoss+, TEM	csúnyájukéikor
+P3pl, NPoss+, CAU	csúnyájukéiért
+P3pl, NPoss+, TER	csúnyájukéiig
+P3pl, NPoss+, ESS	csúnyájukéiul
+P3pl, pl, NPoss+, NOM	csúnyáikéi
+P3pl, pl, NPoss+, ACC	csúnyáikéit
+P3pl, pl, NPoss+, DAT	csúnyáikéinak
+P3pl, pl, NPoss+, ILL	csúnyáikéiba
+P3pl, pl, NPoss+, INE	csúnyáikéiban
+P3pl, pl, NPoss+, ELA	csúnyáikéiból
+P3pl, pl, NPoss+, ALL	csúnyáikéihoz
+P3pl, pl, NPoss+, ADE	csúnyáikéinál
+P3pl, pl, NPoss+, ABL	csúnyáikéitól
+P3pl, pl, NPoss+, SUB	csúnyáikéira
+P3pl, pl, NPoss+, SUP	csúnyáikéin
+P3pl, pl, NPoss+, DEL	csúnyáikéiról
+P3pl, pl, NPoss+, INS	csúnyáikéival
+P3pl, pl, NPoss+, FAC	csúnyáikéivá
+P3pl, pl, NPoss+, FOR	csúnyáikéiként
+P3pl, pl, NPoss+, CAU	csúnyáikéiért
+P3pl, pl, NPoss+, TER	csúnyáikéiig
+
+comp, NOM	csúnyább
+comp, ACC	csúnyábbat
+comp, DAT	csúnyábbnak
+comp, ILL	csúnyábba
+comp, INE	csúnyábban
+comp, ELA	csúnyábból
+comp, ALL	csúnyábbhoz
+comp, ADE	csúnyábbnál
+comp, ABL	csúnyábbtól
+comp, SUB	csúnyábbra
+comp, SUP	csúnyábbon
+comp, DEL	csúnyábbról
+comp, INS	csúnyábbal
+comp, FAC	csúnyábbá
+comp, FOR	csúnyábbként
+comp, TEM	csúnyábbkor
+comp, CAU	csúnyábbért
+comp, TER	csúnyábbig
+comp, SOC	csúnyábbastul
+comp, ESS	csúnyábbul
+comp, MOD	csúnyábban
+comp, pl, NOM	csúnyábbak
+comp, pl, ACC	csúnyábbakat
+comp, pl, DAT	csúnyábbaknak
+comp, pl, ILL	csúnyábbakba
+comp, pl, INE	csúnyábbakban
+comp, pl, ELA	csúnyábbakból
+comp, pl, ALL	csúnyábbakhoz
+comp, pl, ADE	csúnyábbaknál
+comp, pl, ABL	csúnyábbaktól
+comp, pl, SUB	csúnyábbakra
+comp, pl, SUP	csúnyábbakon
+comp, pl, DEL	csúnyábbakról
+comp, pl, INS	csúnyábbakkal
+comp, pl, FAC	csúnyábbakká
+comp, pl, FOR	csúnyábbakként
+comp, pl, CAU	csúnyábbakért
+comp, pl, TER	csúnyábbakig
+
+comp, P1sg, NOM	csúnyábbam
+comp, P1sg, ACC	csúnyábbamat
+comp, P1sg, DAT	csúnyábbamnak
+comp, P1sg, ILL	csúnyábbamba
+comp, P1sg, INE	csúnyábbamban
+comp, P1sg, ELA	csúnyábbamból
+comp, P1sg, ALL	csúnyábbamhoz
+comp, P1sg, ADE	csúnyábbamnál
+comp, P1sg, ABL	csúnyábbamtól
+comp, P1sg, SUB	csúnyábbamra
+comp, P1sg, SUP	csúnyábbamon
+comp, P1sg, DEL	csúnyábbamról
+comp, P1sg, INS	csúnyábbammal
+comp, P1sg, FAC	csúnyábbammá
+comp, P1sg, FOR	csúnyábbamként
+comp, P1sg, TEM	csúnyábbamkor
+comp, P1sg, CAU	csúnyábbamért
+comp, P1sg, TER	csúnyábbamig
+comp, P1sg, ESS	csúnyábbamul
+comp, P1sg, pl, NOM	csúnyábbjaiam
+comp, P1sg, pl, ACC	csúnyábbjaiamat
+comp, P1sg, pl, DAT	csúnyábbjaiamnak
+comp, P1sg, pl, ILL	csúnyábbjaiamba
+comp, P1sg, pl, INE	csúnyábbjaiamban
+comp, P1sg, pl, ELA	csúnyábbjaiamból
+comp, P1sg, pl, ALL	csúnyábbjaiamhoz
+comp, P1sg, pl, ADE	csúnyábbjaiamnál
+comp, P1sg, pl, ABL	csúnyábbjaiamtól
+comp, P1sg, pl, SUB	csúnyábbjaiamra
+comp, P1sg, pl, SUP	csúnyábbjaiamon
+comp, P1sg, pl, DEL	csúnyábbjaiamról
+comp, P1sg, pl, INS	csúnyábbjaiammal
+comp, P1sg, pl, FAC	csúnyábbjaiammá
+comp, P1sg, pl, FOR	csúnyábbjaiamként
+comp, P1sg, pl, CAU	csúnyábbjaiamért
+comp, P1sg, pl, TER	csúnyábbjaiamig
+ 
+comp, P2sg, NOM	csúnyábbad
+comp, P2sg, ACC	csúnyábbadat
+comp, P2sg, DAT	csúnyábbadnak
+comp, P2sg, ILL	csúnyábbadba
+comp, P2sg, INE	csúnyábbadban
+comp, P2sg, ELA	csúnyábbadból
+comp, P2sg, ALL	csúnyábbadhoz
+comp, P2sg, ADE	csúnyábbadnál
+comp, P2sg, ABL	csúnyábbadtól
+comp, P2sg, SUB	csúnyábbadra
+comp, P2sg, SUP	csúnyábbadon
+comp, P2sg, DEL	csúnyábbadról
+comp, P2sg, INS	csúnyábbaddal
+comp, P2sg, FAC	csúnyábbaddá
+comp, P2sg, FOR	csúnyábbadként
+comp, P2sg, TEM	csúnyábbadkor
+comp, P2sg, CAU	csúnyábbadért
+comp, P2sg, TER	csúnyábbadig
+comp, P2sg, ESS	csúnyábbadul
+comp, P2sg, pl, NOM	csúnyábbjaid
+comp, P2sg, pl, ACC	csúnyábbjaidat
+comp, P2sg, pl, DAT	csúnyábbjaidnak
+comp, P2sg, pl, ILL	csúnyábbjaidba
+comp, P2sg, pl, INE	csúnyábbjaidban
+comp, P2sg, pl, ELA	csúnyábbjaidból
+comp, P2sg, pl, ALL	csúnyábbjaidhoz
+comp, P2sg, pl, ADE	csúnyábbjaidnál
+comp, P2sg, pl, ABL	csúnyábbjaidtól
+comp, P2sg, pl, SUB	csúnyábbjaidra
+comp, P2sg, pl, SUP	csúnyábbjaidon
+comp, P2sg, pl, DEL	csúnyábbjaidról
+comp, P2sg, pl, INS	csúnyábbjaiddal
+comp, P2sg, pl, FAC	csúnyábbjaiddá
+comp, P2sg, pl, FOR	csúnyábbjaidként
+comp, P2sg, pl, CAU	csúnyábbjaidért
+comp, P2sg, pl, TER	csúnyábbjaidig
+
+comp, P3sg, NOM	csúnyábbja
+comp, P3sg, ACC	csúnyábbját
+comp, P3sg, DAT	csúnyábbjának
+comp, P3sg, ILL	csúnyábbjába
+comp, P3sg, INE	csúnyábbjában
+comp, P3sg, ELA	csúnyábbjából
+comp, P3sg, ALL	csúnyábbjához
+comp, P3sg, ADE	csúnyábbjánál
+comp, P3sg, ABL	csúnyábbjától
+comp, P3sg, SUB	csúnyábbjára
+comp, P3sg, SUP	csúnyábbján
+comp, P3sg, DEL	csúnyábbjáról
+comp, P3sg, INS	csúnyábbjával
+comp, P3sg, FAC	csúnyábbjává
+comp, P3sg, FOR	csúnyábbjaként
+comp, P3sg, TEM	csúnyábbjakor
+comp, P3sg, CAU	csúnyábbjáért
+comp, P3sg, TER	csúnyábbjáig
+comp, P3sg, ESS	csúnyábbjául
+comp, P3sg, pl, NOM	csúnyábbjai
+comp, P3sg, pl, ACC	csúnyábbjait
+comp, P3sg, pl, DAT	csúnyábbjainak
+comp, P3sg, pl, ILL	csúnyábbjaiba
+comp, P3sg, pl, INE	csúnyábbjaiban
+comp, P3sg, pl, ELA	csúnyábbjaiból
+comp, P3sg, pl, ALL	csúnyábbjaihoz
+comp, P3sg, pl, ADE	csúnyábbjainál
+comp, P3sg, pl, ABL	csúnyábbjaitól
+comp, P3sg, pl, SUB	csúnyábbjaira
+comp, P3sg, pl, SUP	csúnyábbjain
+comp, P3sg, pl, DEL	csúnyábbjairól
+comp, P3sg, pl, INS	csúnyábbjaival
+comp, P3sg, pl, FAC	csúnyábbjaivá
+comp, P3sg, pl, FOR	csúnyábbjaiként
+comp, P3sg, pl, CAU	csúnyábbjaiért
+comp, P3sg, pl, TER	csúnyábbjaiig
+
+comp, P1pl, NOM	csúnyábbunk
+comp, P1pl, ACC	csúnyábbunkat
+comp, P1pl, DAT	csúnyábbunknak
+comp, P1pl, ILL	csúnyábbunkba
+comp, P1pl, INE	csúnyábbunkban
+comp, P1pl, ELA	csúnyábbunkból
+comp, P1pl, ALL	csúnyábbunkhoz
+comp, P1pl, ADE	csúnyábbunknál
+comp, P1pl, ABL	csúnyábbunktól
+comp, P1pl, SUB	csúnyábbunkra
+comp, P1pl, SUP	csúnyábbunkon
+comp, P1pl, DEL	csúnyábbunkról
+comp, P1pl, INS	csúnyábbunkkal
+comp, P1pl, FAC	csúnyábbunkká
+comp, P1pl, FOR	csúnyábbunkként
+comp, P1pl, CAU	csúnyábbunkért
+comp, P1pl, TER	csúnyábbunkig
+comp, P1pl, ESS	csúnyábbunkul
+comp, P1pl, pl, NOM	csúnyábbjaink
+comp, P1pl, pl, ACC	csúnyábbjainkat
+comp, P1pl, pl, DAT	csúnyábbjainknak
+comp, P1pl, pl, ILL	csúnyábbjainkba
+comp, P1pl, pl, INE	csúnyábbjainkban
+comp, P1pl, pl, ELA	csúnyábbjainkból
+comp, P1pl, pl, ALL	csúnyábbjainkhoz
+comp, P1pl, pl, ADE	csúnyábbjainknál
+comp, P1pl, pl, ABL	csúnyábbjainktól
+comp, P1pl, pl, SUB	csúnyábbjainkra
+comp, P1pl, pl, SUP	csúnyábbjainkon
+comp, P1pl, pl, DEL	csúnyábbjainkról
+comp, P1pl, pl, INS	csúnyábbjainkkal
+comp, P1pl, pl, FAC	csúnyábbjainkká
+comp, P1pl, pl, FOR	csúnyábbjainkként
+comp, P1pl, pl, CAU	csúnyábbjainkért
+comp, P1pl, pl, TER	csúnyábbjainkig
+
+comp, P2pl, NOM	csúnyábbotok
+comp, P2pl, ACC	csúnyábbotokat
+comp, P2pl, DAT	csúnyábbotoknak
+comp, P2pl, ILL	csúnyábbotokba
+comp, P2pl, INE	csúnyábbotokban
+comp, P2pl, ELA	csúnyábbotokból
+comp, P2pl, ALL	csúnyábbotokhoz
+comp, P2pl, ADE	csúnyábbotoknál
+comp, P2pl, ABL	csúnyábbotoktól
+comp, P2pl, SUB	csúnyábbotokra
+comp, P2pl, SUP	csúnyábbotokon
+comp, P2pl, DEL	csúnyábbotokról
+comp, P2pl, INS	csúnyábbotokkal
+comp, P2pl, FAC	csúnyábbotokká
+comp, P2pl, FOR	csúnyábbotokként
+comp, P2pl, CAU	csúnyábbotokért
+comp, P2pl, TER	csúnyábbotokig
+comp, P2pl, ESS	csúnyábbotokul
+comp, P2pl, pl, NOM	csúnyábbjaitok
+comp, P2pl, pl, ACC	csúnyábbjaitokat
+comp, P2pl, pl, DAT	csúnyábbjaitoknak
+comp, P2pl, pl, ILL	csúnyábbjaitokba
+comp, P2pl, pl, INE	csúnyábbjaitokban
+comp, P2pl, pl, ELA	csúnyábbjaitokból
+comp, P2pl, pl, ALL	csúnyábbjaitokhoz
+comp, P2pl, pl, ADE	csúnyábbjaitoknál
+comp, P2pl, pl, ABL	csúnyábbjaitoktól
+comp, P2pl, pl, SUB	csúnyábbjaitokra
+comp, P2pl, pl, SUP	csúnyábbjaitokon
+comp, P2pl, pl, DEL	csúnyábbjaitokról
+comp, P2pl, pl, INS	csúnyábbjaitokkal
+comp, P2pl, pl, FAC	csúnyábbjaitokká
+comp, P2pl, pl, FOR	csúnyábbjaitokként
+comp, P2pl, pl, CAU	csúnyábbjaitokért
+comp, P2pl, pl, TER	csúnyábbjaitokig
+
+comp, P3pl, NOM	csúnyábbjuk
+comp, P3pl, ACC	csúnyábbjukat
+comp, P3pl, DAT	csúnyábbjuknak
+comp, P3pl, ILL	csúnyábbjukba
+comp, P3pl, INE	csúnyábbjukban
+comp, P3pl, ELA	csúnyábbjukból
+comp, P3pl, ALL	csúnyábbjukhoz
+comp, P3pl, ADE	csúnyábbjuknál
+comp, P3pl, ABL	csúnyábbjuktól
+comp, P3pl, SUB	csúnyábbjukra
+comp, P3pl, SUP	csúnyábbjukon
+comp, P3pl, DEL	csúnyábbjukról
+comp, P3pl, INS	csúnyábbjukkal
+comp, P3pl, FAC	csúnyábbjukká
+comp, P3pl, FOR	csúnyábbjukként
+comp, P3pl, CAU	csúnyábbjukért
+comp, P3pl, TER	csúnyábbjukig
+comp, P3pl, ESS	csúnyábbjukul
+comp, P3pl, pl, NOM	csúnyábbjaik
+comp, P3pl, pl, ACC	csúnyábbjaikat
+comp, P3pl, pl, DAT	csúnyábbjaiknak
+comp, P3pl, pl, ILL	csúnyábbjaikba
+comp, P3pl, pl, INE	csúnyábbjaikban
+comp, P3pl, pl, ELA	csúnyábbjaikból
+comp, P3pl, pl, ALL	csúnyábbjaikhoz
+comp, P3pl, pl, ADE	csúnyábbjaiknál
+comp, P3pl, pl, ABL	csúnyábbjaiktól
+comp, P3pl, pl, SUB	csúnyábbjaikra
+comp, P3pl, pl, SUP	csúnyábbjaikon
+comp, P3pl, pl, DEL	csúnyábbjaikról
+comp, P3pl, pl, INS	csúnyábbjaikkal
+comp, P3pl, pl, FAC	csúnyábbjaikká
+comp, P3pl, pl, FOR	csúnyábbjaikként
+comp, P3pl, pl, CAU	csúnyábbjaikért
+comp, P3pl, pl, TER	csúnyábbjaikig
+
+comp, NPoss, NOM	csúnyábbé
+comp, NPoss, ACC	csúnyábbét
+comp, NPoss, DAT	csúnyábbénak
+comp, NPoss, ILL	csúnyábbéba
+comp, NPoss, INE	csúnyábbéban
+comp, NPoss, ELA	csúnyábbéból
+comp, NPoss, ALL	csúnyábbéhoz
+comp, NPoss, ADE	csúnyábbénál
+comp, NPoss, ABL	csúnyábbétól
+comp, NPoss, SUB	csúnyábbéra
+comp, NPoss, SUP	csúnyábbén
+comp, NPoss, DEL	csúnyábbéról
+comp, NPoss, INS	csúnyábbéval
+comp, NPoss, FAC	csúnyábbévá
+comp, NPoss, FOR	csúnyábbéként
+comp, NPoss, TEM	csúnyábbékor
+comp, NPoss, CAU	csúnyábbéért
+comp, NPoss, TER	csúnyábbéig
+comp, NPoss, SOC	csúnyábbéstul
+comp, NPoss, ESS	csúnyábbéul
+comp, pl, NPoss, NOM	csúnyábbaké
+comp, pl, NPoss, ACC	csúnyábbakét
+comp, pl, NPoss, DAT	csúnyábbakénak
+comp, pl, NPoss, ILL	csúnyábbakéba
+comp, pl, NPoss, INE	csúnyábbakéban
+comp, pl, NPoss, ELA	csúnyábbakéból
+comp, pl, NPoss, ALL	csúnyábbakéhoz
+comp, pl, NPoss, ADE	csúnyábbakénál
+comp, pl, NPoss, ABL	csúnyábbakétól
+comp, pl, NPoss, SUB	csúnyábbakéra
+comp, pl, NPoss, SUP	csúnyábbakén
+comp, pl, NPoss, DEL	csúnyábbakéról
+comp, pl, NPoss, INS	csúnyábbakéval
+comp, pl, NPoss, FAC	csúnyábbakévá
+comp, pl, NPoss, FOR	csúnyábbakéként
+comp, pl, NPoss, CAU	csúnyábbakéért
+comp, pl, NPoss, TER	csúnyábbakéig
+
+comp, P1sg, NPoss, NOM	csúnyábbamé
+comp, P1sg, NPoss, ACC	csúnyábbamét
+comp, P1sg, NPoss, DAT	csúnyábbaménak
+comp, P1sg, NPoss, ILL	csúnyábbaméba
+comp, P1sg, NPoss, INE	csúnyábbaméban
+comp, P1sg, NPoss, ELA	csúnyábbaméból
+comp, P1sg, NPoss, ALL	csúnyábbaméhoz
+comp, P1sg, NPoss, ADE	csúnyábbaménál
+comp, P1sg, NPoss, ABL	csúnyábbamétól
+comp, P1sg, NPoss, SUB	csúnyábbaméra
+comp, P1sg, NPoss, SUP	csúnyábbamén
+comp, P1sg, NPoss, DEL	csúnyábbaméról
+comp, P1sg, NPoss, INS	csúnyábbaméval
+comp, P1sg, NPoss, FAC	csúnyábbamévá
+comp, P1sg, NPoss, FOR	csúnyábbaméként
+comp, P1sg, NPoss, TEM	csúnyábbamékor
+comp, P1sg, NPoss, CAU	csúnyábbaméért
+comp, P1sg, NPoss, TER	csúnyábbaméig
+comp, P1sg, NPoss, ESS	csúnyábbaméul
+comp, P1sg, pl, NPoss, NOM	csúnyábbjaimé
+comp, P1sg, pl, NPoss, ACC	csúnyábbjaimét
+comp, P1sg, pl, NPoss, DAT	csúnyábbjaiménak
+comp, P1sg, pl, NPoss, ILL	csúnyábbjaiméba
+comp, P1sg, pl, NPoss, INE	csúnyábbjaiméban
+comp, P1sg, pl, NPoss, ELA	csúnyábbjaiméból
+comp, P1sg, pl, NPoss, ALL	csúnyábbjaiméhoz
+comp, P1sg, pl, NPoss, ADE	csúnyábbjaiménál
+comp, P1sg, pl, NPoss, ABL	csúnyábbjaimétól
+comp, P1sg, pl, NPoss, SUB	csúnyábbjaiméra
+comp, P1sg, pl, NPoss, SUP	csúnyábbjaimén
+comp, P1sg, pl, NPoss, DEL	csúnyábbjaiméról
+comp, P1sg, pl, NPoss, INS	csúnyábbjaiméval
+comp, P1sg, pl, NPoss, FAC	csúnyábbjaimévá
+comp, P1sg, pl, NPoss, FOR	csúnyábbjaiméként
+comp, P1sg, pl, NPoss, CAU	csúnyábbjaiméért
+comp, P1sg, pl, NPoss, TER	csúnyábbjaiméig
+
+comp, P2sg, NPoss, NOM	csúnyábbadé
+comp, P2sg, NPoss, ACC	csúnyábbadét
+comp, P2sg, NPoss, DAT	csúnyábbadénak
+comp, P2sg, NPoss, ILL	csúnyábbadéba
+comp, P2sg, NPoss, INE	csúnyábbadéban
+comp, P2sg, NPoss, ELA	csúnyábbadéból
+comp, P2sg, NPoss, ALL	csúnyábbadéhoz
+comp, P2sg, NPoss, ADE	csúnyábbadénál
+comp, P2sg, NPoss, ABL	csúnyábbadétól
+comp, P2sg, NPoss, SUB	csúnyábbadéra
+comp, P2sg, NPoss, SUP	csúnyábbadén
+comp, P2sg, NPoss, DEL	csúnyábbadéról
+comp, P2sg, NPoss, INS	csúnyábbadéval
+comp, P2sg, NPoss, FAC	csúnyábbadévá
+comp, P2sg, NPoss, FOR	csúnyábbadéként
+comp, P2sg, NPoss, TEM	csúnyábbadékor
+comp, P2sg, NPoss, CAU	csúnyábbadéért
+comp, P2sg, NPoss, TER	csúnyábbadéig
+comp, P2sg, NPoss, ESS	csúnyábbadéul
+comp, P2sg, pl, NPoss, NOM	csúnyábbjaidé
+comp, P2sg, pl, NPoss, ACC	csúnyábbjaidét
+comp, P2sg, pl, NPoss, DAT	csúnyábbjaidénak
+comp, P2sg, pl, NPoss, ILL	csúnyábbjaidéba
+comp, P2sg, pl, NPoss, INE	csúnyábbjaidéban
+comp, P2sg, pl, NPoss, ELA	csúnyábbjaidéból
+comp, P2sg, pl, NPoss, ALL	csúnyábbjaidéhoz
+comp, P2sg, pl, NPoss, ADE	csúnyábbjaidénál
+comp, P2sg, pl, NPoss, ABL	csúnyábbjaidétól
+comp, P2sg, pl, NPoss, SUB	csúnyábbjaidéra
+comp, P2sg, pl, NPoss, SUP	csúnyábbjaidén
+comp, P2sg, pl, NPoss, DEL	csúnyábbjaidéról
+comp, P2sg, pl, NPoss, INS	csúnyábbjaidéval
+comp, P2sg, pl, NPoss, FAC	csúnyábbjaidévá
+comp, P2sg, pl, NPoss, FOR	csúnyábbjaidéként
+comp, P2sg, pl, NPoss, CAU	csúnyábbjaidéért
+comp, P2sg, pl, NPoss, TER	csúnyábbjaidéig
+
+comp, P3sg, NPoss, NOM	csúnyábbjáé
+comp, P3sg, NPoss, ACC	csúnyábbjáét
+comp, P3sg, NPoss, DAT	csúnyábbjáénak
+comp, P3sg, NPoss, ILL	csúnyábbjáéba
+comp, P3sg, NPoss, INE	csúnyábbjáéban
+comp, P3sg, NPoss, ELA	csúnyábbjáéból
+comp, P3sg, NPoss, ALL	csúnyábbjáéhoz
+comp, P3sg, NPoss, ADE	csúnyábbjáénál
+comp, P3sg, NPoss, ABL	csúnyábbjáétól
+comp, P3sg, NPoss, SUB	csúnyábbjáéra
+comp, P3sg, NPoss, SUP	csúnyábbjáén
+comp, P3sg, NPoss, DEL	csúnyábbjáéról
+comp, P3sg, NPoss, INS	csúnyábbjáéval
+comp, P3sg, NPoss, FAC	csúnyábbjáévá
+comp, P3sg, NPoss, FOR	csúnyábbjáéként
+comp, P3sg, NPoss, TEM	csúnyábbjáékor
+comp, P3sg, NPoss, CAU	csúnyábbjáéért
+comp, P3sg, NPoss, TER	csúnyábbjáéig
+comp, P3sg, NPoss, ESS	csúnyábbjáéul
+comp, P3sg, pl, NPoss, NOM	csúnyábbjaié
+comp, P3sg, pl, NPoss, ACC	csúnyábbjaiét
+comp, P3sg, pl, NPoss, DAT	csúnyábbjaiénak
+comp, P3sg, pl, NPoss, ILL	csúnyábbjaiéba
+comp, P3sg, pl, NPoss, INE	csúnyábbjaiéban
+comp, P3sg, pl, NPoss, ELA	csúnyábbjaiéból
+comp, P3sg, pl, NPoss, ALL	csúnyábbjaiéhoz
+comp, P3sg, pl, NPoss, ADE	csúnyábbjaiénál
+comp, P3sg, pl, NPoss, ABL	csúnyábbjaiétól
+comp, P3sg, pl, NPoss, SUB	csúnyábbjaiéra
+comp, P3sg, pl, NPoss, SUP	csúnyábbjaién
+comp, P3sg, pl, NPoss, DEL	csúnyábbjaiéról
+comp, P3sg, pl, NPoss, INS	csúnyábbjaiéval
+comp, P3sg, pl, NPoss, FAC	csúnyábbjaiévá
+comp, P3sg, pl, NPoss, FOR	csúnyábbjaiéként
+comp, P3sg, pl, NPoss, CAU	csúnyábbjaiéért
+comp, P3sg, pl, NPoss, TER	csúnyábbjaiéig
+
+comp, P1pl, NPoss, NOM	csúnyábbunké
+comp, P1pl, NPoss, ACC	csúnyábbunkét
+comp, P1pl, NPoss, DAT	csúnyábbunkénak
+comp, P1pl, NPoss, ILL	csúnyábbunkéba
+comp, P1pl, NPoss, INE	csúnyábbunkéban
+comp, P1pl, NPoss, ELA	csúnyábbunkéból
+comp, P1pl, NPoss, ALL	csúnyábbunkéhoz
+comp, P1pl, NPoss, ADE	csúnyábbunkénál
+comp, P1pl, NPoss, ABL	csúnyábbunkétól
+comp, P1pl, NPoss, SUB	csúnyábbunkéra
+comp, P1pl, NPoss, SUP	csúnyábbunkén
+comp, P1pl, NPoss, DEL	csúnyábbunkéról
+comp, P1pl, NPoss, INS	csúnyábbunkéval
+comp, P1pl, NPoss, FAC	csúnyábbunkévá
+comp, P1pl, NPoss, FOR	csúnyábbunkéként
+comp, P1pl, NPoss, TEM	csúnyábbunkékor
+comp, P1pl, NPoss, CAU	csúnyábbunkéért
+comp, P1pl, NPoss, TER	csúnyábbunkéig
+comp, P1pl, NPoss, ESS	csúnyábbunkéul
+comp, P1pl, pl, NPoss, NOM	csúnyábbjainké
+comp, P1pl, pl, NPoss, ACC	csúnyábbjainkét
+comp, P1pl, pl, NPoss, DAT	csúnyábbjainkénak
+comp, P1pl, pl, NPoss, ILL	csúnyábbjainkéba
+comp, P1pl, pl, NPoss, INE	csúnyábbjainkéban
+comp, P1pl, pl, NPoss, ELA	csúnyábbjainkéból
+comp, P1pl, pl, NPoss, ALL	csúnyábbjainkéhoz
+comp, P1pl, pl, NPoss, ADE	csúnyábbjainkénál
+comp, P1pl, pl, NPoss, ABL	csúnyábbjainkétól
+comp, P1pl, pl, NPoss, SUB	csúnyábbjainkéra
+comp, P1pl, pl, NPoss, SUP	csúnyábbjainkén
+comp, P1pl, pl, NPoss, DEL	csúnyábbjainkéról
+comp, P1pl, pl, NPoss, INS	csúnyábbjainkéval
+comp, P1pl, pl, NPoss, FAC	csúnyábbjainkévá
+comp, P1pl, pl, NPoss, FOR	csúnyábbjainkéként
+comp, P1pl, pl, NPoss, CAU	csúnyábbjainkéért
+comp, P1pl, pl, NPoss, TER	csúnyábbjainkéig
+
+comp, P2pl, NPoss, NOM	csúnyábbotoké
+comp, P2pl, NPoss, ACC	csúnyábbotokét
+comp, P2pl, NPoss, DAT	csúnyábbotokénak
+comp, P2pl, NPoss, ILL	csúnyábbotokéba
+comp, P2pl, NPoss, INE	csúnyábbotokéban
+comp, P2pl, NPoss, ELA	csúnyábbotokéból
+comp, P2pl, NPoss, ALL	csúnyábbotokéhoz
+comp, P2pl, NPoss, ADE	csúnyábbotokénál
+comp, P2pl, NPoss, ABL	csúnyábbotokétól
+comp, P2pl, NPoss, SUB	csúnyábbotokéra
+comp, P2pl, NPoss, SUP	csúnyábbotokén
+comp, P2pl, NPoss, DEL	csúnyábbotokéról
+comp, P2pl, NPoss, INS	csúnyábbotokéval
+comp, P2pl, NPoss, FAC	csúnyábbotokévá
+comp, P2pl, NPoss, FOR	csúnyábbotokéként
+comp, P2pl, NPoss, TEM	csúnyábbotokékor
+comp, P2pl, NPoss, CAU	csúnyábbotokéért
+comp, P2pl, NPoss, TER	csúnyábbotokéig
+comp, P2pl, NPoss, ESS	csúnyábbotokéul
+comp, P2pl, pl, NPoss, NOM	csúnyábbjaitoké
+comp, P2pl, pl, NPoss, ACC	csúnyábbjaitokét
+comp, P2pl, pl, NPoss, DAT	csúnyábbjaitokénak
+comp, P2pl, pl, NPoss, ILL	csúnyábbjaitokéba
+comp, P2pl, pl, NPoss, INE	csúnyábbjaitokéban
+comp, P2pl, pl, NPoss, ELA	csúnyábbjaitokéból
+comp, P2pl, pl, NPoss, ALL	csúnyábbjaitokéhoz
+comp, P2pl, pl, NPoss, ADE	csúnyábbjaitokénál
+comp, P2pl, pl, NPoss, ABL	csúnyábbjaitokétól
+comp, P2pl, pl, NPoss, SUB	csúnyábbjaitokéra
+comp, P2pl, pl, NPoss, SUP	csúnyábbjaitokén
+comp, P2pl, pl, NPoss, DEL	csúnyábbjaitokéról
+comp, P2pl, pl, NPoss, INS	csúnyábbjaitokéval
+comp, P2pl, pl, NPoss, FAC	csúnyábbjaitokévá
+comp, P2pl, pl, NPoss, FOR	csúnyábbjaitokéként
+comp, P2pl, pl, NPoss, CAU	csúnyábbjaitokéért
+comp, P2pl, pl, NPoss, TER	csúnyábbjaitokéig
+
+comp, P3pl, NPoss, NOM	csúnyábbjuké
+comp, P3pl, NPoss, ACC	csúnyábbjukét
+comp, P3pl, NPoss, DAT	csúnyábbjukénak
+comp, P3pl, NPoss, ILL	csúnyábbjukéba
+comp, P3pl, NPoss, INE	csúnyábbjukéban
+comp, P3pl, NPoss, ELA	csúnyábbjukéból
+comp, P3pl, NPoss, ALL	csúnyábbjukéhoz
+comp, P3pl, NPoss, ADE	csúnyábbjukénál
+comp, P3pl, NPoss, ABL	csúnyábbjukétól
+comp, P3pl, NPoss, SUB	csúnyábbjukéra
+comp, P3pl, NPoss, SUP	csúnyábbjukén
+comp, P3pl, NPoss, DEL	csúnyábbjukéról
+comp, P3pl, NPoss, INS	csúnyábbjukéval
+comp, P3pl, NPoss, FAC	csúnyábbjukévá
+comp, P3pl, NPoss, FOR	csúnyábbjukéként
+comp, P3pl, NPoss, TEM	csúnyábbjukékor
+comp, P3pl, NPoss, CAU	csúnyábbjukéért
+comp, P3pl, NPoss, TER	csúnyábbjukéig
+comp, P3pl, NPoss, ESS	csúnyábbjukéul
+comp, P3pl, pl, NPoss, NOM	csúnyábbjaiké
+comp, P3pl, pl, NPoss, ACC	csúnyábbjaikét
+comp, P3pl, pl, NPoss, DAT	csúnyábbjaikénak
+comp, P3pl, pl, NPoss, ILL	csúnyábbjaikéba
+comp, P3pl, pl, NPoss, INE	csúnyábbjaikéban
+comp, P3pl, pl, NPoss, ELA	csúnyábbjaikéból
+comp, P3pl, pl, NPoss, ALL	csúnyábbjaikéhoz
+comp, P3pl, pl, NPoss, ADE	csúnyábbjaikénál
+comp, P3pl, pl, NPoss, ABL	csúnyábbjaikétól
+comp, P3pl, pl, NPoss, SUB	csúnyábbjaikéra
+comp, P3pl, pl, NPoss, SUP	csúnyábbjaikén
+comp, P3pl, pl, NPoss, DEL	csúnyábbjaikéról
+comp, P3pl, pl, NPoss, INS	csúnyábbjaikéval
+comp, P3pl, pl, NPoss, FAC	csúnyábbjaikévá
+comp, P3pl, pl, NPoss, FOR	csúnyábbjaikéként
+comp, P3pl, pl, NPoss, CAU	csúnyábbjaikéért
+comp, P3pl, pl, NPoss, TER	csúnyábbjaikéig
+
+comp, NPoss+, NOM	csúnyábbéi
+comp, NPoss+, ACC	csúnyábbéit
+comp, NPoss+, DAT	csúnyábbéinak
+comp, NPoss+, ILL	csúnyábbéiba
+comp, NPoss+, INE	csúnyábbéiban
+comp, NPoss+, ELA	csúnyábbéiból
+comp, NPoss+, ALL	csúnyábbéihoz
+comp, NPoss+, ADE	csúnyábbéinál
+comp, NPoss+, ABL	csúnyábbéitól
+comp, NPoss+, SUB	csúnyábbéira
+comp, NPoss+, SUP	csúnyábbéin
+comp, NPoss+, DEL	csúnyábbéiról
+comp, NPoss+, INS	csúnyábbéival
+comp, NPoss+, FAC	csúnyábbéivá
+comp, NPoss+, FOR	csúnyábbéiként
+comp, NPoss+, TEM	csúnyábbéikor
+comp, NPoss+, CAU	csúnyábbéiért
+comp, NPoss+, TER	csúnyábbéiig
+comp, NPoss+, SOC	csúnyábbéistul
+comp, NPoss+, ESS	csúnyábbéiul
+comp, pl, NPoss+, NOM	csúnyábbakéi
+comp, pl, NPoss+, ACC	csúnyábbakéit
+comp, pl, NPoss+, DAT	csúnyábbakéinak
+comp, pl, NPoss+, ILL	csúnyábbakéiba
+comp, pl, NPoss+, INE	csúnyábbakéiban
+comp, pl, NPoss+, ELA	csúnyábbakéiból
+comp, pl, NPoss+, ALL	csúnyábbakéihoz
+comp, pl, NPoss+, ADE	csúnyábbakéinál
+comp, pl, NPoss+, ABL	csúnyábbakéitól
+comp, pl, NPoss+, SUB	csúnyábbakéira
+comp, pl, NPoss+, SUP	csúnyábbakéin
+comp, pl, NPoss+, DEL	csúnyábbakéiról
+comp, pl, NPoss+, INS	csúnyábbakéival
+comp, pl, NPoss+, FAC	csúnyábbakéivá
+comp, pl, NPoss+, FOR	csúnyábbakéiként
+comp, pl, NPoss+, CAU	csúnyábbakéiért
+comp, pl, NPoss+, TER	csúnyábbakéiig
+
+comp, P1sg, NPoss+, NOM	csúnyábbaméi
+comp, P1sg, NPoss+, ACC	csúnyábbaméit
+comp, P1sg, NPoss+, DAT	csúnyábbaméinak
+comp, P1sg, NPoss+, ILL	csúnyábbaméiba
+comp, P1sg, NPoss+, INE	csúnyábbaméiban
+comp, P1sg, NPoss+, ELA	csúnyábbaméiból
+comp, P1sg, NPoss+, ALL	csúnyábbaméihoz
+comp, P1sg, NPoss+, ADE	csúnyábbaméinál
+comp, P1sg, NPoss+, ABL	csúnyábbaméitól
+comp, P1sg, NPoss+, SUB	csúnyábbaméira
+comp, P1sg, NPoss+, SUP	csúnyábbaméin
+comp, P1sg, NPoss+, DEL	csúnyábbaméiról
+comp, P1sg, NPoss+, INS	csúnyábbaméival
+comp, P1sg, NPoss+, FAC	csúnyábbaméivá
+comp, P1sg, NPoss+, FOR	csúnyábbaméiként
+comp, P1sg, NPoss+, TEM	csúnyábbaméikor
+comp, P1sg, NPoss+, CAU	csúnyábbaméiért
+comp, P1sg, NPoss+, TER	csúnyábbaméiig
+comp, P1sg, NPoss+, ESS	csúnyábbaméiul
+comp, P1sg, pl, NPoss+, NOM	csúnyábbjaiméi
+comp, P1sg, pl, NPoss+, ACC	csúnyábbjaiméit
+comp, P1sg, pl, NPoss+, DAT	csúnyábbjaiméinak
+comp, P1sg, pl, NPoss+, ILL	csúnyábbjaiméiba
+comp, P1sg, pl, NPoss+, INE	csúnyábbjaiméiban
+comp, P1sg, pl, NPoss+, ELA	csúnyábbjaiméiból
+comp, P1sg, pl, NPoss+, ALL	csúnyábbjaiméihoz
+comp, P1sg, pl, NPoss+, ADE	csúnyábbjaiméinál
+comp, P1sg, pl, NPoss+, ABL	csúnyábbjaiméitól
+comp, P1sg, pl, NPoss+, SUB	csúnyábbjaiméira
+comp, P1sg, pl, NPoss+, SUP	csúnyábbjaiméin
+comp, P1sg, pl, NPoss+, DEL	csúnyábbjaiméiról
+comp, P1sg, pl, NPoss+, INS	csúnyábbjaiméival
+comp, P1sg, pl, NPoss+, FAC	csúnyábbjaiméivá
+comp, P1sg, pl, NPoss+, FOR	csúnyábbjaiméiként
+comp, P1sg, pl, NPoss+, CAU	csúnyábbjaiméiért
+comp, P1sg, pl, NPoss+, TER	csúnyábbjaiméiig
+
+comp, P2sg, NPoss+, NOM	csúnyábbadéi
+comp, P2sg, NPoss+, ACC	csúnyábbadéit
+comp, P2sg, NPoss+, DAT	csúnyábbadéinak
+comp, P2sg, NPoss+, ILL	csúnyábbadéiba
+comp, P2sg, NPoss+, INE	csúnyábbadéiban
+comp, P2sg, NPoss+, ELA	csúnyábbadéiból
+comp, P2sg, NPoss+, ALL	csúnyábbadéihoz
+comp, P2sg, NPoss+, ADE	csúnyábbadéinál
+comp, P2sg, NPoss+, ABL	csúnyábbadéitól
+comp, P2sg, NPoss+, SUB	csúnyábbadéira
+comp, P2sg, NPoss+, SUP	csúnyábbadéin
+comp, P2sg, NPoss+, DEL	csúnyábbadéiról
+comp, P2sg, NPoss+, INS	csúnyábbadéival
+comp, P2sg, NPoss+, FAC	csúnyábbadéivá
+comp, P2sg, NPoss+, FOR	csúnyábbadéiként
+comp, P2sg, NPoss+, TEM	csúnyábbadéikor
+comp, P2sg, NPoss+, CAU	csúnyábbadéiért
+comp, P2sg, NPoss+, TER	csúnyábbadéiig
+comp, P2sg, NPoss+, ESS	csúnyábbadéiul
+comp, P2sg, pl, NPoss+, NOM	csúnyábbjaidéi
+comp, P2sg, pl, NPoss+, ACC	csúnyábbjaidéit
+comp, P2sg, pl, NPoss+, DAT	csúnyábbjaidéinak
+comp, P2sg, pl, NPoss+, ILL	csúnyábbjaidéiba
+comp, P2sg, pl, NPoss+, INE	csúnyábbjaidéiban
+comp, P2sg, pl, NPoss+, ELA	csúnyábbjaidéiból
+comp, P2sg, pl, NPoss+, ALL	csúnyábbjaidéihoz
+comp, P2sg, pl, NPoss+, ADE	csúnyábbjaidéinál
+comp, P2sg, pl, NPoss+, ABL	csúnyábbjaidéitól
+comp, P2sg, pl, NPoss+, SUB	csúnyábbjaidéira
+comp, P2sg, pl, NPoss+, SUP	csúnyábbjaidéin
+comp, P2sg, pl, NPoss+, DEL	csúnyábbjaidéiról
+comp, P2sg, pl, NPoss+, INS	csúnyábbjaidéival
+comp, P2sg, pl, NPoss+, FAC	csúnyábbjaidéivá
+comp, P2sg, pl, NPoss+, FOR	csúnyábbjaidéiként
+comp, P2sg, pl, NPoss+, CAU	csúnyábbjaidéiért
+comp, P2sg, pl, NPoss+, TER	csúnyábbjaidéiig
+
+comp, P3sg, NPoss+, NOM	csúnyábbjáéi
+comp, P3sg, NPoss+, ACC	csúnyábbjáéit
+comp, P3sg, NPoss+, DAT	csúnyábbjáéinak
+comp, P3sg, NPoss+, ILL	csúnyábbjáéiba
+comp, P3sg, NPoss+, INE	csúnyábbjáéiban
+comp, P3sg, NPoss+, ELA	csúnyábbjáéiból
+comp, P3sg, NPoss+, ALL	csúnyábbjáéihoz
+comp, P3sg, NPoss+, ADE	csúnyábbjáéinál
+comp, P3sg, NPoss+, ABL	csúnyábbjáéitól
+comp, P3sg, NPoss+, SUB	csúnyábbjáéira
+comp, P3sg, NPoss+, SUP	csúnyábbjáéin
+comp, P3sg, NPoss+, DEL	csúnyábbjáéiról
+comp, P3sg, NPoss+, INS	csúnyábbjáéival
+comp, P3sg, NPoss+, FAC	csúnyábbjáéivá
+comp, P3sg, NPoss+, FOR	csúnyábbjáéiként
+comp, P3sg, NPoss+, TEM	csúnyábbjáéikor
+comp, P3sg, NPoss+, CAU	csúnyábbjáéiért
+comp, P3sg, NPoss+, TER	csúnyábbjáéiig
+comp, P3sg, NPoss+, ESS	csúnyábbjáéiul
+comp, P3sg, pl, NPoss+, NOM	csúnyábbjaiéi
+comp, P3sg, pl, NPoss+, ACC	csúnyábbjaiéit
+comp, P3sg, pl, NPoss+, DAT	csúnyábbjaiéinak
+comp, P3sg, pl, NPoss+, ILL	csúnyábbjaiéiba
+comp, P3sg, pl, NPoss+, INE	csúnyábbjaiéiban
+comp, P3sg, pl, NPoss+, ELA	csúnyábbjaiéiból
+comp, P3sg, pl, NPoss+, ALL	csúnyábbjaiéihoz
+comp, P3sg, pl, NPoss+, ADE	csúnyábbjaiéinál
+comp, P3sg, pl, NPoss+, ABL	csúnyábbjaiéitól
+comp, P3sg, pl, NPoss+, SUB	csúnyábbjaiéira
+comp, P3sg, pl, NPoss+, SUP	csúnyábbjaiéin
+comp, P3sg, pl, NPoss+, DEL	csúnyábbjaiéiról
+comp, P3sg, pl, NPoss+, INS	csúnyábbjaiéival
+comp, P3sg, pl, NPoss+, FAC	csúnyábbjaiéivá
+comp, P3sg, pl, NPoss+, FOR	csúnyábbjaiéiként
+comp, P3sg, pl, NPoss+, CAU	csúnyábbjaiéiért
+comp, P3sg, pl, NPoss+, TER	csúnyábbjaiéiig
+
+comp, P1pl, NPoss+, NOM	csúnyábbunkéi
+comp, P1pl, NPoss+, ACC	csúnyábbunkéit
+comp, P1pl, NPoss+, DAT	csúnyábbunkéinak
+comp, P1pl, NPoss+, ILL	csúnyábbunkéiba
+comp, P1pl, NPoss+, INE	csúnyábbunkéiban
+comp, P1pl, NPoss+, ELA	csúnyábbunkéiból
+comp, P1pl, NPoss+, ALL	csúnyábbunkéihoz
+comp, P1pl, NPoss+, ADE	csúnyábbunkéinál
+comp, P1pl, NPoss+, ABL	csúnyábbunkéitól
+comp, P1pl, NPoss+, SUB	csúnyábbunkéira
+comp, P1pl, NPoss+, SUP	csúnyábbunkéin
+comp, P1pl, NPoss+, DEL	csúnyábbunkéiról
+comp, P1pl, NPoss+, INS	csúnyábbunkéival
+comp, P1pl, NPoss+, FAC	csúnyábbunkéivá
+comp, P1pl, NPoss+, FOR	csúnyábbunkéiként
+comp, P1pl, NPoss+, TEM	csúnyábbunkéikor
+comp, P1pl, NPoss+, CAU	csúnyábbunkéiért
+comp, P1pl, NPoss+, TER	csúnyábbunkéiig
+comp, P1pl, NPoss+, ESS	csúnyábbunkéiul
+comp, P1pl, pl, NPoss+, NOM	csúnyábbjainkéi
+comp, P1pl, pl, NPoss+, ACC	csúnyábbjainkéit
+comp, P1pl, pl, NPoss+, DAT	csúnyábbjainkéinak
+comp, P1pl, pl, NPoss+, ILL	csúnyábbjainkéiba
+comp, P1pl, pl, NPoss+, INE	csúnyábbjainkéiban
+comp, P1pl, pl, NPoss+, ELA	csúnyábbjainkéiból
+comp, P1pl, pl, NPoss+, ALL	csúnyábbjainkéihoz
+comp, P1pl, pl, NPoss+, ADE	csúnyábbjainkéinál
+comp, P1pl, pl, NPoss+, ABL	csúnyábbjainkéitól
+comp, P1pl, pl, NPoss+, SUB	csúnyábbjainkéira
+comp, P1pl, pl, NPoss+, SUP	csúnyábbjainkéin
+comp, P1pl, pl, NPoss+, DEL	csúnyábbjainkéiról
+comp, P1pl, pl, NPoss+, INS	csúnyábbjainkéival
+comp, P1pl, pl, NPoss+, FAC	csúnyábbjainkéivá
+comp, P1pl, pl, NPoss+, FOR	csúnyábbjainkéiként
+comp, P1pl, pl, NPoss+, CAU	csúnyábbjainkéiért
+comp, P1pl, pl, NPoss+, TER	csúnyábbjainkéiig
+
+comp, P2pl, NPoss+, NOM	csúnyábbotokéi
+comp, P2pl, NPoss+, ACC	csúnyábbotokéit
+comp, P2pl, NPoss+, DAT	csúnyábbotokéinak
+comp, P2pl, NPoss+, ILL	csúnyábbotokéiba
+comp, P2pl, NPoss+, INE	csúnyábbotokéiban
+comp, P2pl, NPoss+, ELA	csúnyábbotokéiból
+comp, P2pl, NPoss+, ALL	csúnyábbotokéihoz
+comp, P2pl, NPoss+, ADE	csúnyábbotokéinál
+comp, P2pl, NPoss+, ABL	csúnyábbotokéitól
+comp, P2pl, NPoss+, SUB	csúnyábbotokéira
+comp, P2pl, NPoss+, SUP	csúnyábbotokéin
+comp, P2pl, NPoss+, DEL	csúnyábbotokéiról
+comp, P2pl, NPoss+, INS	csúnyábbotokéival
+comp, P2pl, NPoss+, FAC	csúnyábbotokéivá
+comp, P2pl, NPoss+, FOR	csúnyábbotokéiként
+comp, P2pl, NPoss+, TEM	csúnyábbotokéikor
+comp, P2pl, NPoss+, CAU	csúnyábbotokéiért
+comp, P2pl, NPoss+, TER	csúnyábbotokéiig
+comp, P2pl, NPoss+, ESS	csúnyábbotokéiul
+comp, P2pl, pl, NPoss+, NOM	csúnyábbjaitokéi
+comp, P2pl, pl, NPoss+, ACC	csúnyábbjaitokéit
+comp, P2pl, pl, NPoss+, DAT	csúnyábbjaitokéinak
+comp, P2pl, pl, NPoss+, ILL	csúnyábbjaitokéiba
+comp, P2pl, pl, NPoss+, INE	csúnyábbjaitokéiban
+comp, P2pl, pl, NPoss+, ELA	csúnyábbjaitokéiból
+comp, P2pl, pl, NPoss+, ALL	csúnyábbjaitokéihoz
+comp, P2pl, pl, NPoss+, ADE	csúnyábbjaitokéinál
+comp, P2pl, pl, NPoss+, ABL	csúnyábbjaitokéitól
+comp, P2pl, pl, NPoss+, SUB	csúnyábbjaitokéira
+comp, P2pl, pl, NPoss+, SUP	csúnyábbjaitokéin
+comp, P2pl, pl, NPoss+, DEL	csúnyábbjaitokéiról
+comp, P2pl, pl, NPoss+, INS	csúnyábbjaitokéival
+comp, P2pl, pl, NPoss+, FAC	csúnyábbjaitokéivá
+comp, P2pl, pl, NPoss+, FOR	csúnyábbjaitokéiként
+comp, P2pl, pl, NPoss+, CAU	csúnyábbjaitokéiért
+comp, P2pl, pl, NPoss+, TER	csúnyábbjaitokéiig
+
+comp, P3pl, NPoss+, NOM	csúnyábbjukéi
+comp, P3pl, NPoss+, ACC	csúnyábbjukéit
+comp, P3pl, NPoss+, DAT	csúnyábbjukéinak
+comp, P3pl, NPoss+, ILL	csúnyábbjukéiba
+comp, P3pl, NPoss+, INE	csúnyábbjukéiban
+comp, P3pl, NPoss+, ELA	csúnyábbjukéiból
+comp, P3pl, NPoss+, ALL	csúnyábbjukéihoz
+comp, P3pl, NPoss+, ADE	csúnyábbjukéinál
+comp, P3pl, NPoss+, ABL	csúnyábbjukéitól
+comp, P3pl, NPoss+, SUB	csúnyábbjukéira
+comp, P3pl, NPoss+, SUP	csúnyábbjukéin
+comp, P3pl, NPoss+, DEL	csúnyábbjukéiról
+comp, P3pl, NPoss+, INS	csúnyábbjukéival
+comp, P3pl, NPoss+, FAC	csúnyábbjukéivá
+comp, P3pl, NPoss+, FOR	csúnyábbjukéiként
+comp, P3pl, NPoss+, TEM	csúnyábbjukéikor
+comp, P3pl, NPoss+, CAU	csúnyábbjukéiért
+comp, P3pl, NPoss+, TER	csúnyábbjukéiig
+comp, P3pl, NPoss+, ESS	csúnyábbjukéiul
+comp, P3pl, pl, NPoss+, NOM	csúnyábbjaikéi
+comp, P3pl, pl, NPoss+, ACC	csúnyábbjaikéit
+comp, P3pl, pl, NPoss+, DAT	csúnyábbjaikéinak
+comp, P3pl, pl, NPoss+, ILL	csúnyábbjaikéiba
+comp, P3pl, pl, NPoss+, INE	csúnyábbjaikéiban
+comp, P3pl, pl, NPoss+, ELA	csúnyábbjaikéiból
+comp, P3pl, pl, NPoss+, ALL	csúnyábbjaikéihoz
+comp, P3pl, pl, NPoss+, ADE	csúnyábbjaikéinál
+comp, P3pl, pl, NPoss+, ABL	csúnyábbjaikéitól
+comp, P3pl, pl, NPoss+, SUB	csúnyábbjaikéira
+comp, P3pl, pl, NPoss+, SUP	csúnyábbjaikéin
+comp, P3pl, pl, NPoss+, DEL	csúnyábbjaikéiról
+comp, P3pl, pl, NPoss+, INS	csúnyábbjaikéival
+comp, P3pl, pl, NPoss+, FAC	csúnyábbjaikéivá
+comp, P3pl, pl, NPoss+, FOR	csúnyábbjaikéiként
+comp, P3pl, pl, NPoss+, CAU	csúnyábbjaikéiért
+comp, P3pl, pl, NPoss+, TER	csúnyábbjaikéiig
+
+super, NOM	legcsúnyább
+super, ACC	legcsúnyábbat
+super, DAT	legcsúnyábbnak
+super, ILL	legcsúnyábba
+super, INE	legcsúnyábban
+super, ELA	legcsúnyábból
+super, ALL	legcsúnyábbhoz
+super, ADE	legcsúnyábbnál
+super, ABL	legcsúnyábbtól
+super, SUB	legcsúnyábbra
+super, SUP	legcsúnyábbon
+super, DEL	legcsúnyábbról
+super, INS	legcsúnyábbal
+super, FAC	legcsúnyábbá
+super, FOR	legcsúnyábbként
+super, TEM	legcsúnyábbkor
+super, CAU	legcsúnyábbért
+super, TER	legcsúnyábbig
+super, SOC	legcsúnyábbastul
+super, ESS	legcsúnyábbul
+super, MOD	legcsúnyábban
+super, pl, NOM	legcsúnyábbak
+super, pl, ACC	legcsúnyábbakat
+super, pl, DAT	legcsúnyábbaknak
+super, pl, ILL	legcsúnyábbakba
+super, pl, INE	legcsúnyábbakban
+super, pl, ELA	legcsúnyábbakból
+super, pl, ALL	legcsúnyábbakhoz
+super, pl, ADE	legcsúnyábbaknál
+super, pl, ABL	legcsúnyábbaktól
+super, pl, SUB	legcsúnyábbakra
+super, pl, SUP	legcsúnyábbakon
+super, pl, DEL	legcsúnyábbakról
+super, pl, INS	legcsúnyábbakkal
+super, pl, FAC	legcsúnyábbakká
+super, pl, FOR	legcsúnyábbakként
+super, pl, CAU	legcsúnyábbakért
+super, pl, TER	legcsúnyábbakig
+
+super, P1sg, NOM	legcsúnyábbam
+super, P1sg, ACC	legcsúnyábbamat
+super, P1sg, DAT	legcsúnyábbamnak
+super, P1sg, ILL	legcsúnyábbamba
+super, P1sg, INE	legcsúnyábbamban
+super, P1sg, ELA	legcsúnyábbamból
+super, P1sg, ALL	legcsúnyábbamhoz
+super, P1sg, ADE	legcsúnyábbamnál
+super, P1sg, ABL	legcsúnyábbamtól
+super, P1sg, SUB	legcsúnyábbamra
+super, P1sg, SUP	legcsúnyábbamon
+super, P1sg, DEL	legcsúnyábbamról
+super, P1sg, INS	legcsúnyábbammal
+super, P1sg, FAC	legcsúnyábbammá
+super, P1sg, FOR	legcsúnyábbamként
+super, P1sg, TEM	legcsúnyábbamkor
+super, P1sg, CAU	legcsúnyábbamért
+super, P1sg, TER	legcsúnyábbamig
+super, P1sg, ESS	legcsúnyábbamul
+super, P1sg, pl, NOM	legcsúnyábbjaiam
+super, P1sg, pl, ACC	legcsúnyábbjaiamat
+super, P1sg, pl, DAT	legcsúnyábbjaiamnak
+super, P1sg, pl, ILL	legcsúnyábbjaiamba
+super, P1sg, pl, INE	legcsúnyábbjaiamban
+super, P1sg, pl, ELA	legcsúnyábbjaiamból
+super, P1sg, pl, ALL	legcsúnyábbjaiamhoz
+super, P1sg, pl, ADE	legcsúnyábbjaiamnál
+super, P1sg, pl, ABL	legcsúnyábbjaiamtól
+super, P1sg, pl, SUB	legcsúnyábbjaiamra
+super, P1sg, pl, SUP	legcsúnyábbjaiamon
+super, P1sg, pl, DEL	legcsúnyábbjaiamról
+super, P1sg, pl, INS	legcsúnyábbjaiammal
+super, P1sg, pl, FAC	legcsúnyábbjaiammá
+super, P1sg, pl, FOR	legcsúnyábbjaiamként
+super, P1sg, pl, CAU	legcsúnyábbjaiamért
+super, P1sg, pl, TER	legcsúnyábbjaiamig
+ 
+super, P2sg, NOM	legcsúnyábbad
+super, P2sg, ACC	legcsúnyábbadat
+super, P2sg, DAT	legcsúnyábbadnak
+super, P2sg, ILL	legcsúnyábbadba
+super, P2sg, INE	legcsúnyábbadban
+super, P2sg, ELA	legcsúnyábbadból
+super, P2sg, ALL	legcsúnyábbadhoz
+super, P2sg, ADE	legcsúnyábbadnál
+super, P2sg, ABL	legcsúnyábbadtól
+super, P2sg, SUB	legcsúnyábbadra
+super, P2sg, SUP	legcsúnyábbadon
+super, P2sg, DEL	legcsúnyábbadról
+super, P2sg, INS	legcsúnyábbaddal
+super, P2sg, FAC	legcsúnyábbaddá
+super, P2sg, FOR	legcsúnyábbadként
+super, P2sg, TEM	legcsúnyábbadkor
+super, P2sg, CAU	legcsúnyábbadért
+super, P2sg, TER	legcsúnyábbadig
+super, P2sg, ESS	legcsúnyábbadul
+super, P2sg, pl, NOM	legcsúnyábbjaid
+super, P2sg, pl, ACC	legcsúnyábbjaidat
+super, P2sg, pl, DAT	legcsúnyábbjaidnak
+super, P2sg, pl, ILL	legcsúnyábbjaidba
+super, P2sg, pl, INE	legcsúnyábbjaidban
+super, P2sg, pl, ELA	legcsúnyábbjaidból
+super, P2sg, pl, ALL	legcsúnyábbjaidhoz
+super, P2sg, pl, ADE	legcsúnyábbjaidnál
+super, P2sg, pl, ABL	legcsúnyábbjaidtól
+super, P2sg, pl, SUB	legcsúnyábbjaidra
+super, P2sg, pl, SUP	legcsúnyábbjaidon
+super, P2sg, pl, DEL	legcsúnyábbjaidról
+super, P2sg, pl, INS	legcsúnyábbjaiddal
+super, P2sg, pl, FAC	legcsúnyábbjaiddá
+super, P2sg, pl, FOR	legcsúnyábbjaidként
+super, P2sg, pl, CAU	legcsúnyábbjaidért
+super, P2sg, pl, TER	legcsúnyábbjaidig
+
+super, P3sg, NOM	legcsúnyábbja
+super, P3sg, ACC	legcsúnyábbját
+super, P3sg, DAT	legcsúnyábbjának
+super, P3sg, ILL	legcsúnyábbjába
+super, P3sg, INE	legcsúnyábbjában
+super, P3sg, ELA	legcsúnyábbjából
+super, P3sg, ALL	legcsúnyábbjához
+super, P3sg, ADE	legcsúnyábbjánál
+super, P3sg, ABL	legcsúnyábbjától
+super, P3sg, SUB	legcsúnyábbjára
+super, P3sg, SUP	legcsúnyábbján
+super, P3sg, DEL	legcsúnyábbjáról
+super, P3sg, INS	legcsúnyábbjával
+super, P3sg, FAC	legcsúnyábbjává
+super, P3sg, FOR	legcsúnyábbjaként
+super, P3sg, TEM	legcsúnyábbjakor
+super, P3sg, CAU	legcsúnyábbjáért
+super, P3sg, TER	legcsúnyábbjáig
+super, P3sg, ESS	legcsúnyábbjául
+super, P3sg, pl, NOM	legcsúnyábbjai
+super, P3sg, pl, ACC	legcsúnyábbjait
+super, P3sg, pl, DAT	legcsúnyábbjainak
+super, P3sg, pl, ILL	legcsúnyábbjaiba
+super, P3sg, pl, INE	legcsúnyábbjaiban
+super, P3sg, pl, ELA	legcsúnyábbjaiból
+super, P3sg, pl, ALL	legcsúnyábbjaihoz
+super, P3sg, pl, ADE	legcsúnyábbjainál
+super, P3sg, pl, ABL	legcsúnyábbjaitól
+super, P3sg, pl, SUB	legcsúnyábbjaira
+super, P3sg, pl, SUP	legcsúnyábbjain
+super, P3sg, pl, DEL	legcsúnyábbjairól
+super, P3sg, pl, INS	legcsúnyábbjaival
+super, P3sg, pl, FAC	legcsúnyábbjaivá
+super, P3sg, pl, FOR	legcsúnyábbjaiként
+super, P3sg, pl, CAU	legcsúnyábbjaiért
+super, P3sg, pl, TER	legcsúnyábbjaiig
+
+super, P1pl, NOM	legcsúnyábbunk
+super, P1pl, ACC	legcsúnyábbunkat
+super, P1pl, DAT	legcsúnyábbunknak
+super, P1pl, ILL	legcsúnyábbunkba
+super, P1pl, INE	legcsúnyábbunkban
+super, P1pl, ELA	legcsúnyábbunkból
+super, P1pl, ALL	legcsúnyábbunkhoz
+super, P1pl, ADE	legcsúnyábbunknál
+super, P1pl, ABL	legcsúnyábbunktól
+super, P1pl, SUB	legcsúnyábbunkra
+super, P1pl, SUP	legcsúnyábbunkon
+super, P1pl, DEL	legcsúnyábbunkról
+super, P1pl, INS	legcsúnyábbunkkal
+super, P1pl, FAC	legcsúnyábbunkká
+super, P1pl, FOR	legcsúnyábbunkként
+super, P1pl, CAU	legcsúnyábbunkért
+super, P1pl, TER	legcsúnyábbunkig
+super, P1pl, ESS	legcsúnyábbunkul
+super, P1pl, pl, NOM	legcsúnyábbjaink
+super, P1pl, pl, ACC	legcsúnyábbjainkat
+super, P1pl, pl, DAT	legcsúnyábbjainknak
+super, P1pl, pl, ILL	legcsúnyábbjainkba
+super, P1pl, pl, INE	legcsúnyábbjainkban
+super, P1pl, pl, ELA	legcsúnyábbjainkból
+super, P1pl, pl, ALL	legcsúnyábbjainkhoz
+super, P1pl, pl, ADE	legcsúnyábbjainknál
+super, P1pl, pl, ABL	legcsúnyábbjainktól
+super, P1pl, pl, SUB	legcsúnyábbjainkra
+super, P1pl, pl, SUP	legcsúnyábbjainkon
+super, P1pl, pl, DEL	legcsúnyábbjainkról
+super, P1pl, pl, INS	legcsúnyábbjainkkal
+super, P1pl, pl, FAC	legcsúnyábbjainkká
+super, P1pl, pl, FOR	legcsúnyábbjainkként
+super, P1pl, pl, CAU	legcsúnyábbjainkért
+super, P1pl, pl, TER	legcsúnyábbjainkig
+
+super, P2pl, NOM	legcsúnyábbotok
+super, P2pl, ACC	legcsúnyábbotokat
+super, P2pl, DAT	legcsúnyábbotoknak
+super, P2pl, ILL	legcsúnyábbotokba
+super, P2pl, INE	legcsúnyábbotokban
+super, P2pl, ELA	legcsúnyábbotokból
+super, P2pl, ALL	legcsúnyábbotokhoz
+super, P2pl, ADE	legcsúnyábbotoknál
+super, P2pl, ABL	legcsúnyábbotoktól
+super, P2pl, SUB	legcsúnyábbotokra
+super, P2pl, SUP	legcsúnyábbotokon
+super, P2pl, DEL	legcsúnyábbotokról
+super, P2pl, INS	legcsúnyábbotokkal
+super, P2pl, FAC	legcsúnyábbotokká
+super, P2pl, FOR	legcsúnyábbotokként
+super, P2pl, CAU	legcsúnyábbotokért
+super, P2pl, TER	legcsúnyábbotokig
+super, P2pl, ESS	legcsúnyábbotokul
+super, P2pl, pl, NOM	legcsúnyábbjaitok
+super, P2pl, pl, ACC	legcsúnyábbjaitokat
+super, P2pl, pl, DAT	legcsúnyábbjaitoknak
+super, P2pl, pl, ILL	legcsúnyábbjaitokba
+super, P2pl, pl, INE	legcsúnyábbjaitokban
+super, P2pl, pl, ELA	legcsúnyábbjaitokból
+super, P2pl, pl, ALL	legcsúnyábbjaitokhoz
+super, P2pl, pl, ADE	legcsúnyábbjaitoknál
+super, P2pl, pl, ABL	legcsúnyábbjaitoktól
+super, P2pl, pl, SUB	legcsúnyábbjaitokra
+super, P2pl, pl, SUP	legcsúnyábbjaitokon
+super, P2pl, pl, DEL	legcsúnyábbjaitokról
+super, P2pl, pl, INS	legcsúnyábbjaitokkal
+super, P2pl, pl, FAC	legcsúnyábbjaitokká
+super, P2pl, pl, FOR	legcsúnyábbjaitokként
+super, P2pl, pl, CAU	legcsúnyábbjaitokért
+super, P2pl, pl, TER	legcsúnyábbjaitokig
+
+super, P3pl, NOM	legcsúnyábbjuk
+super, P3pl, ACC	legcsúnyábbjukat
+super, P3pl, DAT	legcsúnyábbjuknak
+super, P3pl, ILL	legcsúnyábbjukba
+super, P3pl, INE	legcsúnyábbjukban
+super, P3pl, ELA	legcsúnyábbjukból
+super, P3pl, ALL	legcsúnyábbjukhoz
+super, P3pl, ADE	legcsúnyábbjuknál
+super, P3pl, ABL	legcsúnyábbjuktól
+super, P3pl, SUB	legcsúnyábbjukra
+super, P3pl, SUP	legcsúnyábbjukon
+super, P3pl, DEL	legcsúnyábbjukról
+super, P3pl, INS	legcsúnyábbjukkal
+super, P3pl, FAC	legcsúnyábbjukká
+super, P3pl, FOR	legcsúnyábbjukként
+super, P3pl, CAU	legcsúnyábbjukért
+super, P3pl, TER	legcsúnyábbjukig
+super, P3pl, ESS	legcsúnyábbjukul
+super, P3pl, pl, NOM	legcsúnyábbjaik
+super, P3pl, pl, ACC	legcsúnyábbjaikat
+super, P3pl, pl, DAT	legcsúnyábbjaiknak
+super, P3pl, pl, ILL	legcsúnyábbjaikba
+super, P3pl, pl, INE	legcsúnyábbjaikban
+super, P3pl, pl, ELA	legcsúnyábbjaikból
+super, P3pl, pl, ALL	legcsúnyábbjaikhoz
+super, P3pl, pl, ADE	legcsúnyábbjaiknál
+super, P3pl, pl, ABL	legcsúnyábbjaiktól
+super, P3pl, pl, SUB	legcsúnyábbjaikra
+super, P3pl, pl, SUP	legcsúnyábbjaikon
+super, P3pl, pl, DEL	legcsúnyábbjaikról
+super, P3pl, pl, INS	legcsúnyábbjaikkal
+super, P3pl, pl, FAC	legcsúnyábbjaikká
+super, P3pl, pl, FOR	legcsúnyábbjaikként
+super, P3pl, pl, CAU	legcsúnyábbjaikért
+super, P3pl, pl, TER	legcsúnyábbjaikig
+
+super, NPoss, NOM	legcsúnyábbé
+super, NPoss, ACC	legcsúnyábbét
+super, NPoss, DAT	legcsúnyábbénak
+super, NPoss, ILL	legcsúnyábbéba
+super, NPoss, INE	legcsúnyábbéban
+super, NPoss, ELA	legcsúnyábbéból
+super, NPoss, ALL	legcsúnyábbéhoz
+super, NPoss, ADE	legcsúnyábbénál
+super, NPoss, ABL	legcsúnyábbétól
+super, NPoss, SUB	legcsúnyábbéra
+super, NPoss, SUP	legcsúnyábbén
+super, NPoss, DEL	legcsúnyábbéról
+super, NPoss, INS	legcsúnyábbéval
+super, NPoss, FAC	legcsúnyábbévá
+super, NPoss, FOR	legcsúnyábbéként
+super, NPoss, TEM	legcsúnyábbékor
+super, NPoss, CAU	legcsúnyábbéért
+super, NPoss, TER	legcsúnyábbéig
+super, NPoss, SOC	legcsúnyábbéstul
+super, NPoss, ESS	legcsúnyábbéul
+super, pl, NPoss, NOM	legcsúnyábbaké
+super, pl, NPoss, ACC	legcsúnyábbakét
+super, pl, NPoss, DAT	legcsúnyábbakénak
+super, pl, NPoss, ILL	legcsúnyábbakéba
+super, pl, NPoss, INE	legcsúnyábbakéban
+super, pl, NPoss, ELA	legcsúnyábbakéból
+super, pl, NPoss, ALL	legcsúnyábbakéhoz
+super, pl, NPoss, ADE	legcsúnyábbakénál
+super, pl, NPoss, ABL	legcsúnyábbakétól
+super, pl, NPoss, SUB	legcsúnyábbakéra
+super, pl, NPoss, SUP	legcsúnyábbakén
+super, pl, NPoss, DEL	legcsúnyábbakéról
+super, pl, NPoss, INS	legcsúnyábbakéval
+super, pl, NPoss, FAC	legcsúnyábbakévá
+super, pl, NPoss, FOR	legcsúnyábbakéként
+super, pl, NPoss, CAU	legcsúnyábbakéért
+super, pl, NPoss, TER	legcsúnyábbakéig
+
+super, P1sg, NPoss, NOM	legcsúnyábbamé
+super, P1sg, NPoss, ACC	legcsúnyábbamét
+super, P1sg, NPoss, DAT	legcsúnyábbaménak
+super, P1sg, NPoss, ILL	legcsúnyábbaméba
+super, P1sg, NPoss, INE	legcsúnyábbaméban
+super, P1sg, NPoss, ELA	legcsúnyábbaméból
+super, P1sg, NPoss, ALL	legcsúnyábbaméhoz
+super, P1sg, NPoss, ADE	legcsúnyábbaménál
+super, P1sg, NPoss, ABL	legcsúnyábbamétól
+super, P1sg, NPoss, SUB	legcsúnyábbaméra
+super, P1sg, NPoss, SUP	legcsúnyábbamén
+super, P1sg, NPoss, DEL	legcsúnyábbaméról
+super, P1sg, NPoss, INS	legcsúnyábbaméval
+super, P1sg, NPoss, FAC	legcsúnyábbamévá
+super, P1sg, NPoss, FOR	legcsúnyábbaméként
+super, P1sg, NPoss, TEM	legcsúnyábbamékor
+super, P1sg, NPoss, CAU	legcsúnyábbaméért
+super, P1sg, NPoss, TER	legcsúnyábbaméig
+super, P1sg, NPoss, ESS	legcsúnyábbaméul
+super, P1sg, pl, NPoss, NOM	legcsúnyábbjaimé
+super, P1sg, pl, NPoss, ACC	legcsúnyábbjaimét
+super, P1sg, pl, NPoss, DAT	legcsúnyábbjaiménak
+super, P1sg, pl, NPoss, ILL	legcsúnyábbjaiméba
+super, P1sg, pl, NPoss, INE	legcsúnyábbjaiméban
+super, P1sg, pl, NPoss, ELA	legcsúnyábbjaiméból
+super, P1sg, pl, NPoss, ALL	legcsúnyábbjaiméhoz
+super, P1sg, pl, NPoss, ADE	legcsúnyábbjaiménál
+super, P1sg, pl, NPoss, ABL	legcsúnyábbjaimétól
+super, P1sg, pl, NPoss, SUB	legcsúnyábbjaiméra
+super, P1sg, pl, NPoss, SUP	legcsúnyábbjaimén
+super, P1sg, pl, NPoss, DEL	legcsúnyábbjaiméról
+super, P1sg, pl, NPoss, INS	legcsúnyábbjaiméval
+super, P1sg, pl, NPoss, FAC	legcsúnyábbjaimévá
+super, P1sg, pl, NPoss, FOR	legcsúnyábbjaiméként
+super, P1sg, pl, NPoss, CAU	legcsúnyábbjaiméért
+super, P1sg, pl, NPoss, TER	legcsúnyábbjaiméig
+
+super, P2sg, NPoss, NOM	legcsúnyábbadé
+super, P2sg, NPoss, ACC	legcsúnyábbadét
+super, P2sg, NPoss, DAT	legcsúnyábbadénak
+super, P2sg, NPoss, ILL	legcsúnyábbadéba
+super, P2sg, NPoss, INE	legcsúnyábbadéban
+super, P2sg, NPoss, ELA	legcsúnyábbadéból
+super, P2sg, NPoss, ALL	legcsúnyábbadéhoz
+super, P2sg, NPoss, ADE	legcsúnyábbadénál
+super, P2sg, NPoss, ABL	legcsúnyábbadétól
+super, P2sg, NPoss, SUB	legcsúnyábbadéra
+super, P2sg, NPoss, SUP	legcsúnyábbadén
+super, P2sg, NPoss, DEL	legcsúnyábbadéról
+super, P2sg, NPoss, INS	legcsúnyábbadéval
+super, P2sg, NPoss, FAC	legcsúnyábbadévá
+super, P2sg, NPoss, FOR	legcsúnyábbadéként
+super, P2sg, NPoss, TEM	legcsúnyábbadékor
+super, P2sg, NPoss, CAU	legcsúnyábbadéért
+super, P2sg, NPoss, TER	legcsúnyábbadéig
+super, P2sg, NPoss, ESS	legcsúnyábbadéul
+super, P2sg, pl, NPoss, NOM	legcsúnyábbjaidé
+super, P2sg, pl, NPoss, ACC	legcsúnyábbjaidét
+super, P2sg, pl, NPoss, DAT	legcsúnyábbjaidénak
+super, P2sg, pl, NPoss, ILL	legcsúnyábbjaidéba
+super, P2sg, pl, NPoss, INE	legcsúnyábbjaidéban
+super, P2sg, pl, NPoss, ELA	legcsúnyábbjaidéból
+super, P2sg, pl, NPoss, ALL	legcsúnyábbjaidéhoz
+super, P2sg, pl, NPoss, ADE	legcsúnyábbjaidénál
+super, P2sg, pl, NPoss, ABL	legcsúnyábbjaidétól
+super, P2sg, pl, NPoss, SUB	legcsúnyábbjaidéra
+super, P2sg, pl, NPoss, SUP	legcsúnyábbjaidén
+super, P2sg, pl, NPoss, DEL	legcsúnyábbjaidéról
+super, P2sg, pl, NPoss, INS	legcsúnyábbjaidéval
+super, P2sg, pl, NPoss, FAC	legcsúnyábbjaidévá
+super, P2sg, pl, NPoss, FOR	legcsúnyábbjaidéként
+super, P2sg, pl, NPoss, CAU	legcsúnyábbjaidéért
+super, P2sg, pl, NPoss, TER	legcsúnyábbjaidéig
+
+super, P3sg, NPoss, NOM	legcsúnyábbjáé
+super, P3sg, NPoss, ACC	legcsúnyábbjáét
+super, P3sg, NPoss, DAT	legcsúnyábbjáénak
+super, P3sg, NPoss, ILL	legcsúnyábbjáéba
+super, P3sg, NPoss, INE	legcsúnyábbjáéban
+super, P3sg, NPoss, ELA	legcsúnyábbjáéból
+super, P3sg, NPoss, ALL	legcsúnyábbjáéhoz
+super, P3sg, NPoss, ADE	legcsúnyábbjáénál
+super, P3sg, NPoss, ABL	legcsúnyábbjáétól
+super, P3sg, NPoss, SUB	legcsúnyábbjáéra
+super, P3sg, NPoss, SUP	legcsúnyábbjáén
+super, P3sg, NPoss, DEL	legcsúnyábbjáéról
+super, P3sg, NPoss, INS	legcsúnyábbjáéval
+super, P3sg, NPoss, FAC	legcsúnyábbjáévá
+super, P3sg, NPoss, FOR	legcsúnyábbjáéként
+super, P3sg, NPoss, TEM	legcsúnyábbjáékor
+super, P3sg, NPoss, CAU	legcsúnyábbjáéért
+super, P3sg, NPoss, TER	legcsúnyábbjáéig
+super, P3sg, NPoss, ESS	legcsúnyábbjáéul
+super, P3sg, pl, NPoss, NOM	legcsúnyábbjaié
+super, P3sg, pl, NPoss, ACC	legcsúnyábbjaiét
+super, P3sg, pl, NPoss, DAT	legcsúnyábbjaiénak
+super, P3sg, pl, NPoss, ILL	legcsúnyábbjaiéba
+super, P3sg, pl, NPoss, INE	legcsúnyábbjaiéban
+super, P3sg, pl, NPoss, ELA	legcsúnyábbjaiéból
+super, P3sg, pl, NPoss, ALL	legcsúnyábbjaiéhoz
+super, P3sg, pl, NPoss, ADE	legcsúnyábbjaiénál
+super, P3sg, pl, NPoss, ABL	legcsúnyábbjaiétól
+super, P3sg, pl, NPoss, SUB	legcsúnyábbjaiéra
+super, P3sg, pl, NPoss, SUP	legcsúnyábbjaién
+super, P3sg, pl, NPoss, DEL	legcsúnyábbjaiéról
+super, P3sg, pl, NPoss, INS	legcsúnyábbjaiéval
+super, P3sg, pl, NPoss, FAC	legcsúnyábbjaiévá
+super, P3sg, pl, NPoss, FOR	legcsúnyábbjaiéként
+super, P3sg, pl, NPoss, CAU	legcsúnyábbjaiéért
+super, P3sg, pl, NPoss, TER	legcsúnyábbjaiéig
+
+super, P1pl, NPoss, NOM	legcsúnyábbunké
+super, P1pl, NPoss, ACC	legcsúnyábbunkét
+super, P1pl, NPoss, DAT	legcsúnyábbunkénak
+super, P1pl, NPoss, ILL	legcsúnyábbunkéba
+super, P1pl, NPoss, INE	legcsúnyábbunkéban
+super, P1pl, NPoss, ELA	legcsúnyábbunkéból
+super, P1pl, NPoss, ALL	legcsúnyábbunkéhoz
+super, P1pl, NPoss, ADE	legcsúnyábbunkénál
+super, P1pl, NPoss, ABL	legcsúnyábbunkétól
+super, P1pl, NPoss, SUB	legcsúnyábbunkéra
+super, P1pl, NPoss, SUP	legcsúnyábbunkén
+super, P1pl, NPoss, DEL	legcsúnyábbunkéról
+super, P1pl, NPoss, INS	legcsúnyábbunkéval
+super, P1pl, NPoss, FAC	legcsúnyábbunkévá
+super, P1pl, NPoss, FOR	legcsúnyábbunkéként
+super, P1pl, NPoss, TEM	legcsúnyábbunkékor
+super, P1pl, NPoss, CAU	legcsúnyábbunkéért
+super, P1pl, NPoss, TER	legcsúnyábbunkéig
+super, P1pl, NPoss, ESS	legcsúnyábbunkéul
+super, P1pl, pl, NPoss, NOM	legcsúnyábbjainké
+super, P1pl, pl, NPoss, ACC	legcsúnyábbjainkét
+super, P1pl, pl, NPoss, DAT	legcsúnyábbjainkénak
+super, P1pl, pl, NPoss, ILL	legcsúnyábbjainkéba
+super, P1pl, pl, NPoss, INE	legcsúnyábbjainkéban
+super, P1pl, pl, NPoss, ELA	legcsúnyábbjainkéból
+super, P1pl, pl, NPoss, ALL	legcsúnyábbjainkéhoz
+super, P1pl, pl, NPoss, ADE	legcsúnyábbjainkénál
+super, P1pl, pl, NPoss, ABL	legcsúnyábbjainkétól
+super, P1pl, pl, NPoss, SUB	legcsúnyábbjainkéra
+super, P1pl, pl, NPoss, SUP	legcsúnyábbjainkén
+super, P1pl, pl, NPoss, DEL	legcsúnyábbjainkéról
+super, P1pl, pl, NPoss, INS	legcsúnyábbjainkéval
+super, P1pl, pl, NPoss, FAC	legcsúnyábbjainkévá
+super, P1pl, pl, NPoss, FOR	legcsúnyábbjainkéként
+super, P1pl, pl, NPoss, CAU	legcsúnyábbjainkéért
+super, P1pl, pl, NPoss, TER	legcsúnyábbjainkéig
+
+super, P2pl, NPoss, NOM	legcsúnyábbotoké
+super, P2pl, NPoss, ACC	legcsúnyábbotokét
+super, P2pl, NPoss, DAT	legcsúnyábbotokénak
+super, P2pl, NPoss, ILL	legcsúnyábbotokéba
+super, P2pl, NPoss, INE	legcsúnyábbotokéban
+super, P2pl, NPoss, ELA	legcsúnyábbotokéból
+super, P2pl, NPoss, ALL	legcsúnyábbotokéhoz
+super, P2pl, NPoss, ADE	legcsúnyábbotokénál
+super, P2pl, NPoss, ABL	legcsúnyábbotokétól
+super, P2pl, NPoss, SUB	legcsúnyábbotokéra
+super, P2pl, NPoss, SUP	legcsúnyábbotokén
+super, P2pl, NPoss, DEL	legcsúnyábbotokéról
+super, P2pl, NPoss, INS	legcsúnyábbotokéval
+super, P2pl, NPoss, FAC	legcsúnyábbotokévá
+super, P2pl, NPoss, FOR	legcsúnyábbotokéként
+super, P2pl, NPoss, TEM	legcsúnyábbotokékor
+super, P2pl, NPoss, CAU	legcsúnyábbotokéért
+super, P2pl, NPoss, TER	legcsúnyábbotokéig
+super, P2pl, NPoss, ESS	legcsúnyábbotokéul
+super, P2pl, pl, NPoss, NOM	legcsúnyábbjaitoké
+super, P2pl, pl, NPoss, ACC	legcsúnyábbjaitokét
+super, P2pl, pl, NPoss, DAT	legcsúnyábbjaitokénak
+super, P2pl, pl, NPoss, ILL	legcsúnyábbjaitokéba
+super, P2pl, pl, NPoss, INE	legcsúnyábbjaitokéban
+super, P2pl, pl, NPoss, ELA	legcsúnyábbjaitokéból
+super, P2pl, pl, NPoss, ALL	legcsúnyábbjaitokéhoz
+super, P2pl, pl, NPoss, ADE	legcsúnyábbjaitokénál
+super, P2pl, pl, NPoss, ABL	legcsúnyábbjaitokétól
+super, P2pl, pl, NPoss, SUB	legcsúnyábbjaitokéra
+super, P2pl, pl, NPoss, SUP	legcsúnyábbjaitokén
+super, P2pl, pl, NPoss, DEL	legcsúnyábbjaitokéról
+super, P2pl, pl, NPoss, INS	legcsúnyábbjaitokéval
+super, P2pl, pl, NPoss, FAC	legcsúnyábbjaitokévá
+super, P2pl, pl, NPoss, FOR	legcsúnyábbjaitokéként
+super, P2pl, pl, NPoss, CAU	legcsúnyábbjaitokéért
+super, P2pl, pl, NPoss, TER	legcsúnyábbjaitokéig
+
+super, P3pl, NPoss, NOM	legcsúnyábbjuké
+super, P3pl, NPoss, ACC	legcsúnyábbjukét
+super, P3pl, NPoss, DAT	legcsúnyábbjukénak
+super, P3pl, NPoss, ILL	legcsúnyábbjukéba
+super, P3pl, NPoss, INE	legcsúnyábbjukéban
+super, P3pl, NPoss, ELA	legcsúnyábbjukéból
+super, P3pl, NPoss, ALL	legcsúnyábbjukéhoz
+super, P3pl, NPoss, ADE	legcsúnyábbjukénál
+super, P3pl, NPoss, ABL	legcsúnyábbjukétól
+super, P3pl, NPoss, SUB	legcsúnyábbjukéra
+super, P3pl, NPoss, SUP	legcsúnyábbjukén
+super, P3pl, NPoss, DEL	legcsúnyábbjukéról
+super, P3pl, NPoss, INS	legcsúnyábbjukéval
+super, P3pl, NPoss, FAC	legcsúnyábbjukévá
+super, P3pl, NPoss, FOR	legcsúnyábbjukéként
+super, P3pl, NPoss, TEM	legcsúnyábbjukékor
+super, P3pl, NPoss, CAU	legcsúnyábbjukéért
+super, P3pl, NPoss, TER	legcsúnyábbjukéig
+super, P3pl, NPoss, ESS	legcsúnyábbjukéul
+super, P3pl, pl, NPoss, NOM	legcsúnyábbjaiké
+super, P3pl, pl, NPoss, ACC	legcsúnyábbjaikét
+super, P3pl, pl, NPoss, DAT	legcsúnyábbjaikénak
+super, P3pl, pl, NPoss, ILL	legcsúnyábbjaikéba
+super, P3pl, pl, NPoss, INE	legcsúnyábbjaikéban
+super, P3pl, pl, NPoss, ELA	legcsúnyábbjaikéból
+super, P3pl, pl, NPoss, ALL	legcsúnyábbjaikéhoz
+super, P3pl, pl, NPoss, ADE	legcsúnyábbjaikénál
+super, P3pl, pl, NPoss, ABL	legcsúnyábbjaikétól
+super, P3pl, pl, NPoss, SUB	legcsúnyábbjaikéra
+super, P3pl, pl, NPoss, SUP	legcsúnyábbjaikén
+super, P3pl, pl, NPoss, DEL	legcsúnyábbjaikéról
+super, P3pl, pl, NPoss, INS	legcsúnyábbjaikéval
+super, P3pl, pl, NPoss, FAC	legcsúnyábbjaikévá
+super, P3pl, pl, NPoss, FOR	legcsúnyábbjaikéként
+super, P3pl, pl, NPoss, CAU	legcsúnyábbjaikéért
+super, P3pl, pl, NPoss, TER	legcsúnyábbjaikéig
+
+super, NPoss+, NOM	legcsúnyábbéi
+super, NPoss+, ACC	legcsúnyábbéit
+super, NPoss+, DAT	legcsúnyábbéinak
+super, NPoss+, ILL	legcsúnyábbéiba
+super, NPoss+, INE	legcsúnyábbéiban
+super, NPoss+, ELA	legcsúnyábbéiból
+super, NPoss+, ALL	legcsúnyábbéihoz
+super, NPoss+, ADE	legcsúnyábbéinál
+super, NPoss+, ABL	legcsúnyábbéitól
+super, NPoss+, SUB	legcsúnyábbéira
+super, NPoss+, SUP	legcsúnyábbéin
+super, NPoss+, DEL	legcsúnyábbéiról
+super, NPoss+, INS	legcsúnyábbéival
+super, NPoss+, FAC	legcsúnyábbéivá
+super, NPoss+, FOR	legcsúnyábbéiként
+super, NPoss+, TEM	legcsúnyábbéikor
+super, NPoss+, CAU	legcsúnyábbéiért
+super, NPoss+, TER	legcsúnyábbéiig
+super, NPoss+, SOC	legcsúnyábbéistul
+super, NPoss+, ESS	legcsúnyábbéiul
+super, pl, NPoss+, NOM	legcsúnyábbakéi
+super, pl, NPoss+, ACC	legcsúnyábbakéit
+super, pl, NPoss+, DAT	legcsúnyábbakéinak
+super, pl, NPoss+, ILL	legcsúnyábbakéiba
+super, pl, NPoss+, INE	legcsúnyábbakéiban
+super, pl, NPoss+, ELA	legcsúnyábbakéiból
+super, pl, NPoss+, ALL	legcsúnyábbakéihoz
+super, pl, NPoss+, ADE	legcsúnyábbakéinál
+super, pl, NPoss+, ABL	legcsúnyábbakéitól
+super, pl, NPoss+, SUB	legcsúnyábbakéira
+super, pl, NPoss+, SUP	legcsúnyábbakéin
+super, pl, NPoss+, DEL	legcsúnyábbakéiról
+super, pl, NPoss+, INS	legcsúnyábbakéival
+super, pl, NPoss+, FAC	legcsúnyábbakéivá
+super, pl, NPoss+, FOR	legcsúnyábbakéiként
+super, pl, NPoss+, CAU	legcsúnyábbakéiért
+super, pl, NPoss+, TER	legcsúnyábbakéiig
+
+super, P1sg, NPoss+, NOM	legcsúnyábbaméi
+super, P1sg, NPoss+, ACC	legcsúnyábbaméit
+super, P1sg, NPoss+, DAT	legcsúnyábbaméinak
+super, P1sg, NPoss+, ILL	legcsúnyábbaméiba
+super, P1sg, NPoss+, INE	legcsúnyábbaméiban
+super, P1sg, NPoss+, ELA	legcsúnyábbaméiból
+super, P1sg, NPoss+, ALL	legcsúnyábbaméihoz
+super, P1sg, NPoss+, ADE	legcsúnyábbaméinál
+super, P1sg, NPoss+, ABL	legcsúnyábbaméitól
+super, P1sg, NPoss+, SUB	legcsúnyábbaméira
+super, P1sg, NPoss+, SUP	legcsúnyábbaméin
+super, P1sg, NPoss+, DEL	legcsúnyábbaméiról
+super, P1sg, NPoss+, INS	legcsúnyábbaméival
+super, P1sg, NPoss+, FAC	legcsúnyábbaméivá
+super, P1sg, NPoss+, FOR	legcsúnyábbaméiként
+super, P1sg, NPoss+, TEM	legcsúnyábbaméikor
+super, P1sg, NPoss+, CAU	legcsúnyábbaméiért
+super, P1sg, NPoss+, TER	legcsúnyábbaméiig
+super, P1sg, NPoss+, ESS	legcsúnyábbaméiul
+super, P1sg, pl, NPoss+, NOM	legcsúnyábbjaiméi
+super, P1sg, pl, NPoss+, ACC	legcsúnyábbjaiméit
+super, P1sg, pl, NPoss+, DAT	legcsúnyábbjaiméinak
+super, P1sg, pl, NPoss+, ILL	legcsúnyábbjaiméiba
+super, P1sg, pl, NPoss+, INE	legcsúnyábbjaiméiban
+super, P1sg, pl, NPoss+, ELA	legcsúnyábbjaiméiból
+super, P1sg, pl, NPoss+, ALL	legcsúnyábbjaiméihoz
+super, P1sg, pl, NPoss+, ADE	legcsúnyábbjaiméinál
+super, P1sg, pl, NPoss+, ABL	legcsúnyábbjaiméitól
+super, P1sg, pl, NPoss+, SUB	legcsúnyábbjaiméira
+super, P1sg, pl, NPoss+, SUP	legcsúnyábbjaiméin
+super, P1sg, pl, NPoss+, DEL	legcsúnyábbjaiméiról
+super, P1sg, pl, NPoss+, INS	legcsúnyábbjaiméival
+super, P1sg, pl, NPoss+, FAC	legcsúnyábbjaiméivá
+super, P1sg, pl, NPoss+, FOR	legcsúnyábbjaiméiként
+super, P1sg, pl, NPoss+, CAU	legcsúnyábbjaiméiért
+super, P1sg, pl, NPoss+, TER	legcsúnyábbjaiméiig
+
+super, P2sg, NPoss+, NOM	legcsúnyábbadéi
+super, P2sg, NPoss+, ACC	legcsúnyábbadéit
+super, P2sg, NPoss+, DAT	legcsúnyábbadéinak
+super, P2sg, NPoss+, ILL	legcsúnyábbadéiba
+super, P2sg, NPoss+, INE	legcsúnyábbadéiban
+super, P2sg, NPoss+, ELA	legcsúnyábbadéiból
+super, P2sg, NPoss+, ALL	legcsúnyábbadéihoz
+super, P2sg, NPoss+, ADE	legcsúnyábbadéinál
+super, P2sg, NPoss+, ABL	legcsúnyábbadéitól
+super, P2sg, NPoss+, SUB	legcsúnyábbadéira
+super, P2sg, NPoss+, SUP	legcsúnyábbadéin
+super, P2sg, NPoss+, DEL	legcsúnyábbadéiról
+super, P2sg, NPoss+, INS	legcsúnyábbadéival
+super, P2sg, NPoss+, FAC	legcsúnyábbadéivá
+super, P2sg, NPoss+, FOR	legcsúnyábbadéiként
+super, P2sg, NPoss+, TEM	legcsúnyábbadéikor
+super, P2sg, NPoss+, CAU	legcsúnyábbadéiért
+super, P2sg, NPoss+, TER	legcsúnyábbadéiig
+super, P2sg, NPoss+, ESS	legcsúnyábbadéiul
+super, P2sg, pl, NPoss+, NOM	legcsúnyábbjaidéi
+super, P2sg, pl, NPoss+, ACC	legcsúnyábbjaidéit
+super, P2sg, pl, NPoss+, DAT	legcsúnyábbjaidéinak
+super, P2sg, pl, NPoss+, ILL	legcsúnyábbjaidéiba
+super, P2sg, pl, NPoss+, INE	legcsúnyábbjaidéiban
+super, P2sg, pl, NPoss+, ELA	legcsúnyábbjaidéiból
+super, P2sg, pl, NPoss+, ALL	legcsúnyábbjaidéihoz
+super, P2sg, pl, NPoss+, ADE	legcsúnyábbjaidéinál
+super, P2sg, pl, NPoss+, ABL	legcsúnyábbjaidéitól
+super, P2sg, pl, NPoss+, SUB	legcsúnyábbjaidéira
+super, P2sg, pl, NPoss+, SUP	legcsúnyábbjaidéin
+super, P2sg, pl, NPoss+, DEL	legcsúnyábbjaidéiról
+super, P2sg, pl, NPoss+, INS	legcsúnyábbjaidéival
+super, P2sg, pl, NPoss+, FAC	legcsúnyábbjaidéivá
+super, P2sg, pl, NPoss+, FOR	legcsúnyábbjaidéiként
+super, P2sg, pl, NPoss+, CAU	legcsúnyábbjaidéiért
+super, P2sg, pl, NPoss+, TER	legcsúnyábbjaidéiig
+
+super, P3sg, NPoss+, NOM	legcsúnyábbjáéi
+super, P3sg, NPoss+, ACC	legcsúnyábbjáéit
+super, P3sg, NPoss+, DAT	legcsúnyábbjáéinak
+super, P3sg, NPoss+, ILL	legcsúnyábbjáéiba
+super, P3sg, NPoss+, INE	legcsúnyábbjáéiban
+super, P3sg, NPoss+, ELA	legcsúnyábbjáéiból
+super, P3sg, NPoss+, ALL	legcsúnyábbjáéihoz
+super, P3sg, NPoss+, ADE	legcsúnyábbjáéinál
+super, P3sg, NPoss+, ABL	legcsúnyábbjáéitól
+super, P3sg, NPoss+, SUB	legcsúnyábbjáéira
+super, P3sg, NPoss+, SUP	legcsúnyábbjáéin
+super, P3sg, NPoss+, DEL	legcsúnyábbjáéiról
+super, P3sg, NPoss+, INS	legcsúnyábbjáéival
+super, P3sg, NPoss+, FAC	legcsúnyábbjáéivá
+super, P3sg, NPoss+, FOR	legcsúnyábbjáéiként
+super, P3sg, NPoss+, TEM	legcsúnyábbjáéikor
+super, P3sg, NPoss+, CAU	legcsúnyábbjáéiért
+super, P3sg, NPoss+, TER	legcsúnyábbjáéiig
+super, P3sg, NPoss+, ESS	legcsúnyábbjáéiul
+super, P3sg, pl, NPoss+, NOM	legcsúnyábbjaiéi
+super, P3sg, pl, NPoss+, ACC	legcsúnyábbjaiéit
+super, P3sg, pl, NPoss+, DAT	legcsúnyábbjaiéinak
+super, P3sg, pl, NPoss+, ILL	legcsúnyábbjaiéiba
+super, P3sg, pl, NPoss+, INE	legcsúnyábbjaiéiban
+super, P3sg, pl, NPoss+, ELA	legcsúnyábbjaiéiból
+super, P3sg, pl, NPoss+, ALL	legcsúnyábbjaiéihoz
+super, P3sg, pl, NPoss+, ADE	legcsúnyábbjaiéinál
+super, P3sg, pl, NPoss+, ABL	legcsúnyábbjaiéitól
+super, P3sg, pl, NPoss+, SUB	legcsúnyábbjaiéira
+super, P3sg, pl, NPoss+, SUP	legcsúnyábbjaiéin
+super, P3sg, pl, NPoss+, DEL	legcsúnyábbjaiéiról
+super, P3sg, pl, NPoss+, INS	legcsúnyábbjaiéival
+super, P3sg, pl, NPoss+, FAC	legcsúnyábbjaiéivá
+super, P3sg, pl, NPoss+, FOR	legcsúnyábbjaiéiként
+super, P3sg, pl, NPoss+, CAU	legcsúnyábbjaiéiért
+super, P3sg, pl, NPoss+, TER	legcsúnyábbjaiéiig
+
+super, P1pl, NPoss+, NOM	legcsúnyábbunkéi
+super, P1pl, NPoss+, ACC	legcsúnyábbunkéit
+super, P1pl, NPoss+, DAT	legcsúnyábbunkéinak
+super, P1pl, NPoss+, ILL	legcsúnyábbunkéiba
+super, P1pl, NPoss+, INE	legcsúnyábbunkéiban
+super, P1pl, NPoss+, ELA	legcsúnyábbunkéiból
+super, P1pl, NPoss+, ALL	legcsúnyábbunkéihoz
+super, P1pl, NPoss+, ADE	legcsúnyábbunkéinál
+super, P1pl, NPoss+, ABL	legcsúnyábbunkéitól
+super, P1pl, NPoss+, SUB	legcsúnyábbunkéira
+super, P1pl, NPoss+, SUP	legcsúnyábbunkéin
+super, P1pl, NPoss+, DEL	legcsúnyábbunkéiról
+super, P1pl, NPoss+, INS	legcsúnyábbunkéival
+super, P1pl, NPoss+, FAC	legcsúnyábbunkéivá
+super, P1pl, NPoss+, FOR	legcsúnyábbunkéiként
+super, P1pl, NPoss+, TEM	legcsúnyábbunkéikor
+super, P1pl, NPoss+, CAU	legcsúnyábbunkéiért
+super, P1pl, NPoss+, TER	legcsúnyábbunkéiig
+super, P1pl, NPoss+, ESS	legcsúnyábbunkéiul
+super, P1pl, pl, NPoss+, NOM	legcsúnyábbjainkéi
+super, P1pl, pl, NPoss+, ACC	legcsúnyábbjainkéit
+super, P1pl, pl, NPoss+, DAT	legcsúnyábbjainkéinak
+super, P1pl, pl, NPoss+, ILL	legcsúnyábbjainkéiba
+super, P1pl, pl, NPoss+, INE	legcsúnyábbjainkéiban
+super, P1pl, pl, NPoss+, ELA	legcsúnyábbjainkéiból
+super, P1pl, pl, NPoss+, ALL	legcsúnyábbjainkéihoz
+super, P1pl, pl, NPoss+, ADE	legcsúnyábbjainkéinál
+super, P1pl, pl, NPoss+, ABL	legcsúnyábbjainkéitól
+super, P1pl, pl, NPoss+, SUB	legcsúnyábbjainkéira
+super, P1pl, pl, NPoss+, SUP	legcsúnyábbjainkéin
+super, P1pl, pl, NPoss+, DEL	legcsúnyábbjainkéiról
+super, P1pl, pl, NPoss+, INS	legcsúnyábbjainkéival
+super, P1pl, pl, NPoss+, FAC	legcsúnyábbjainkéivá
+super, P1pl, pl, NPoss+, FOR	legcsúnyábbjainkéiként
+super, P1pl, pl, NPoss+, CAU	legcsúnyábbjainkéiért
+super, P1pl, pl, NPoss+, TER	legcsúnyábbjainkéiig
+
+super, P2pl, NPoss+, NOM	legcsúnyábbotokéi
+super, P2pl, NPoss+, ACC	legcsúnyábbotokéit
+super, P2pl, NPoss+, DAT	legcsúnyábbotokéinak
+super, P2pl, NPoss+, ILL	legcsúnyábbotokéiba
+super, P2pl, NPoss+, INE	legcsúnyábbotokéiban
+super, P2pl, NPoss+, ELA	legcsúnyábbotokéiból
+super, P2pl, NPoss+, ALL	legcsúnyábbotokéihoz
+super, P2pl, NPoss+, ADE	legcsúnyábbotokéinál
+super, P2pl, NPoss+, ABL	legcsúnyábbotokéitól
+super, P2pl, NPoss+, SUB	legcsúnyábbotokéira
+super, P2pl, NPoss+, SUP	legcsúnyábbotokéin
+super, P2pl, NPoss+, DEL	legcsúnyábbotokéiról
+super, P2pl, NPoss+, INS	legcsúnyábbotokéival
+super, P2pl, NPoss+, FAC	legcsúnyábbotokéivá
+super, P2pl, NPoss+, FOR	legcsúnyábbotokéiként
+super, P2pl, NPoss+, TEM	legcsúnyábbotokéikor
+super, P2pl, NPoss+, CAU	legcsúnyábbotokéiért
+super, P2pl, NPoss+, TER	legcsúnyábbotokéiig
+super, P2pl, NPoss+, ESS	legcsúnyábbotokéiul
+super, P2pl, pl, NPoss+, NOM	legcsúnyábbjaitokéi
+super, P2pl, pl, NPoss+, ACC	legcsúnyábbjaitokéit
+super, P2pl, pl, NPoss+, DAT	legcsúnyábbjaitokéinak
+super, P2pl, pl, NPoss+, ILL	legcsúnyábbjaitokéiba
+super, P2pl, pl, NPoss+, INE	legcsúnyábbjaitokéiban
+super, P2pl, pl, NPoss+, ELA	legcsúnyábbjaitokéiból
+super, P2pl, pl, NPoss+, ALL	legcsúnyábbjaitokéihoz
+super, P2pl, pl, NPoss+, ADE	legcsúnyábbjaitokéinál
+super, P2pl, pl, NPoss+, ABL	legcsúnyábbjaitokéitól
+super, P2pl, pl, NPoss+, SUB	legcsúnyábbjaitokéira
+super, P2pl, pl, NPoss+, SUP	legcsúnyábbjaitokéin
+super, P2pl, pl, NPoss+, DEL	legcsúnyábbjaitokéiról
+super, P2pl, pl, NPoss+, INS	legcsúnyábbjaitokéival
+super, P2pl, pl, NPoss+, FAC	legcsúnyábbjaitokéivá
+super, P2pl, pl, NPoss+, FOR	legcsúnyábbjaitokéiként
+super, P2pl, pl, NPoss+, CAU	legcsúnyábbjaitokéiért
+super, P2pl, pl, NPoss+, TER	legcsúnyábbjaitokéiig
+
+super, P3pl, NPoss+, NOM	legcsúnyábbjukéi
+super, P3pl, NPoss+, ACC	legcsúnyábbjukéit
+super, P3pl, NPoss+, DAT	legcsúnyábbjukéinak
+super, P3pl, NPoss+, ILL	legcsúnyábbjukéiba
+super, P3pl, NPoss+, INE	legcsúnyábbjukéiban
+super, P3pl, NPoss+, ELA	legcsúnyábbjukéiból
+super, P3pl, NPoss+, ALL	legcsúnyábbjukéihoz
+super, P3pl, NPoss+, ADE	legcsúnyábbjukéinál
+super, P3pl, NPoss+, ABL	legcsúnyábbjukéitól
+super, P3pl, NPoss+, SUB	legcsúnyábbjukéira
+super, P3pl, NPoss+, SUP	legcsúnyábbjukéin
+super, P3pl, NPoss+, DEL	legcsúnyábbjukéiról
+super, P3pl, NPoss+, INS	legcsúnyábbjukéival
+super, P3pl, NPoss+, FAC	legcsúnyábbjukéivá
+super, P3pl, NPoss+, FOR	legcsúnyábbjukéiként
+super, P3pl, NPoss+, TEM	legcsúnyábbjukéikor
+super, P3pl, NPoss+, CAU	legcsúnyábbjukéiért
+super, P3pl, NPoss+, TER	legcsúnyábbjukéiig
+super, P3pl, NPoss+, ESS	legcsúnyábbjukéiul
+super, P3pl, pl, NPoss+, NOM	legcsúnyábbjaikéi
+super, P3pl, pl, NPoss+, ACC	legcsúnyábbjaikéit
+super, P3pl, pl, NPoss+, DAT	legcsúnyábbjaikéinak
+super, P3pl, pl, NPoss+, ILL	legcsúnyábbjaikéiba
+super, P3pl, pl, NPoss+, INE	legcsúnyábbjaikéiban
+super, P3pl, pl, NPoss+, ELA	legcsúnyábbjaikéiból
+super, P3pl, pl, NPoss+, ALL	legcsúnyábbjaikéihoz
+super, P3pl, pl, NPoss+, ADE	legcsúnyábbjaikéinál
+super, P3pl, pl, NPoss+, ABL	legcsúnyábbjaikéitól
+super, P3pl, pl, NPoss+, SUB	legcsúnyábbjaikéira
+super, P3pl, pl, NPoss+, SUP	legcsúnyábbjaikéin
+super, P3pl, pl, NPoss+, DEL	legcsúnyábbjaikéiról
+super, P3pl, pl, NPoss+, INS	legcsúnyábbjaikéival
+super, P3pl, pl, NPoss+, FAC	legcsúnyábbjaikéivá
+super, P3pl, pl, NPoss+, FOR	legcsúnyábbjaikéiként
+super, P3pl, pl, NPoss+, CAU	legcsúnyábbjaikéiért
+super, P3pl, pl, NPoss+, TER	legcsúnyábbjaikéiig
